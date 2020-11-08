@@ -1,0 +1,28 @@
+{
+    "version": {
+        "file": "1.0.0",
+        "repo": "1.0.0"
+    },
+    "local": [
+        {
+            "dzieci-balut": {
+                "name": {
+                    "pl": "Dzieci Bałut",
+                    "en": "Children of Bałuty"
+                },
+                "path": "/dziecibalut",
+                "description": {
+                    "pl": "Murale pamięci poświęcone łódzkim dzieciom z okresu wojny.",
+                    "en": "Murals dedicated to the memory of the Lodz children during the war."
+                },
+                "repo-type": "APP_DATA_JSON",
+                "icon": "",
+                "image": "",
+                "coordinates": [
+                    51.788953, 19.454477
+                ]
+            }
+        }
+    ],
+    "external-repo": []
+}

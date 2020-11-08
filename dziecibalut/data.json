@@ -1,0 +1,1300 @@
+{
+  "name": {
+    "pl": "Dzieci Bałut",
+    "en": "Children of Bałuty"
+  },
+  "projectName": "dziecibalut",
+  "description": {
+    "pl": "Murale pamięci poświęcone łódzkim dzieciom z okresu wojny.",
+    "en": "Murals dedicated to the memory of the Lodz children during the war."
+  },
+  "analiticsUa": "UA-68097457-2",
+  "version": "1.10.2",
+  "defaultLanguage": "en",
+  "avaliableLanguages": [
+    "en",
+    "pl"
+  ],
+  "offlineMaps": {
+    "option": {
+      "true": "true",
+      "false": "false",
+      "force": "force"
+    },
+    "enabled": "force"
+  },
+  "gallery": {
+    "option": {
+      "default": "default",
+      "flick": "flick"
+    },
+    "type": "default"
+  },
+  "collections": [
+    {
+      "name": {
+        "pl": "Edycja pierwsza",
+        "en": "First edition"
+      },
+      "items": [
+        {
+          "type": "poi",
+          "coordinates": [
+            51.788953, 19.454477
+          ],
+          "name": {
+            "pl": "Chłopiec żydowski",
+            "en": "Jewish boy"
+          },
+          "images": [
+            {
+              "url": "assets/DSC04305.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Bajka dzieci getta łódzkiego - Yad Vashem"
+              },
+              "url": "http://www.yadvashem.org/yv/en/education/languages/polish/lesson_plans/ghetto_lodz_legend.asp"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje się na ścianie kamienicy przy ul. Łagiewnickiej 35.",
+            "en": "Mural is located on the wall of the house at 35 Łagiewnicka street."
+          },
+          "description": {
+            "pl": "W gruzach jednego z warsztatów znajdującego się  na terenie getta znaleziono 18 nienumerowanych stron zawierających ilustracje i wiersze pisane w języku polskim. Dokument stanowi swoistą bajkę dzieci z getta łódzkiego.",
+            "en": "In the ruins of one of the workshops from the ghetto, 18 diary pages were found, including illustrations and poems in Polish. This document is a sort of a fairytale of the ghetto children."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.788865, 19.454465
+          ],
+          "name": {
+            "pl": "Chłopiec żydowski",
+            "en": "Jewish boy"
+          },
+          "images": [
+            {
+              "url": "assets/DSC04306.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Litzmannstadt Ghetto - Wikipedia"
+              },
+              "url": "http://pl.wikipedia.org/wiki/Litzmannstadt_Ghetto"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje się na ścianie kamienicy przy ul. Łagiewnickiej 33.",
+            "en": "Mural is located on the wall of the house at 33 Łagiewnicka street."
+          },
+          "description": {
+            "pl": "Niemcy przekształcili Litzmannstadt Getto  w wielki obóz pracy, z którego musiały „zniknąć” jednostki nieproduktywne. W dniach 5-12 września 1942 r. wywieziono dzieci do lat 10, starców powyżej 65 roku życia oraz chorych - w sumie 15 tys. osób. Wszyscy trafili do obozu zagłady w Kulmhof.",
+            "en": "The Germans transformed the Litzmannstadt Ghetto into a big working camp, which had to get rid of the “unproductive” persons. From September 5 to 12, 1942, children under 10, old people above 65 and the sick were taken away – 15 thousand people in total. All of them went to the death camp in Kulmhof."
+          }
+        },
+        {
+          "coordinates": [
+            51.787608, 19.457902
+          ],
+          "name": {
+            "pl": "Chłopiec z getta",
+            "en": "Boy from the ghetto"
+          },
+          "images": [
+            {
+              "url": "assets/DSC04296.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "W połowie 1941 r. setki dzieci w wieku od 10 do 17 lat zostało skierowane do pracy w resortach. Tą decyzją zarząd getta starał się przekonać władze niemieckie, iż getto pełni ważną funkcję, w wojennej gospodarce Rzeszy.",
+            "en": "In mid-1941, hundreds of children aged 10 to 17 were delegated to work in resorts. With this decision the board of the ghetto tried to convince the German government that the ghetto plays an important role in the German war economy."
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje się na ścianie kamienicy przy ul. Organizacji „WiN” 16.",
+            "en": "Mural is located on the wall of the house at 16 Organizacji „WiN” street."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.788302, 19.475084
+          ],
+          "name": {
+            "pl": "Więzień obozu dla dzieci polskich",
+            "en": "Prisoner from the Polish children camp"
+          },
+          "images": [
+            {
+              "url": "assets/DSC04264.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Obóz - Wikipedia"
+              },
+              "url": "https://pl.wikipedia.org/wiki/Ob%C3%B3z_przy_ul._Przemys%C5%82owej_w_%C5%81odzi"
+            },
+            {
+              "name": {
+                "en": "Kinder-KZ - Wikipedia"
+              },
+              "url": "https://en.wikipedia.org/wiki/Kinder_KZ"
+            }
+          ],
+          "description": {
+            "pl": "Obóz prewencyjny dla młodych Polaków Policji Bezpieczeństwa powstał 11 grudnia 1942 r. Przeznaczony był dla dzieci i młodzieży polskiej w wieku 6 – 16 lat. Przez obóz przeszło około trzech tysięcy dzieci. 19 stycznia 1945 w dniu oswobodzenia przez Armię Czerwoną na terenie obozu znajdowało się około tysiąca.",
+            "en": "The prevention camp for young Poles of the Security Police was created on December 11, 1942. It was for children and youngsters aged 6 to 16. About 3 thousand people were imprisoned there. On January 19, 1945, on the day of the salvation from the Red Army, there was only one thousand left."
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Wojska Polskiego 112.",
+            "en": "Mural is located on the wall of the house at 112 Wojska Polskiego street."
+          }
+        },
+        {
+          "coordinates": [
+            51.788769, 19.475951
+          ],
+          "type": "poi",
+          "name": {
+            "pl": "Więzień obozu dla dzieci polskich",
+            "en": "Prisoner of the Polish children camp"
+          },
+          "images": [
+            {
+              "url": "assets/DSC04262.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Obóz - Wikipedia"
+              },
+              "url": "https://pl.wikipedia.org/wiki/Ob%C3%B3z_przy_ul._Przemys%C5%82owej_w_%C5%81odzi"
+            },
+            {
+              "name": {
+                "en": "Kinder-KZ - Wikipedia"
+              },
+              "url": "https://en.wikipedia.org/wiki/Kinder_KZ"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Wojska Polskiego 116.",
+            "en": "Mural is located on the wall of the house at 112, Wojska Polskiego street."
+          },
+          "description": {
+            "pl": "Pierwszym więźniem obozu dla dzieci polskich był Zdzisław Włoszczyński. 11 grudnia 1942 r. przydzielono mu numer 1. Przeżył. Mural anonimowego chłopca – więźnia obozu.",
+            "en": "The first prisoner of the camp for Polish children was Zdzisław Włoszczyński. On December 11, 1942 he was assigned number 1. He survived. The mural represents an anonymous boy."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.789406, 19.475408
+          ],
+          "name": {
+            "pl": "Więzień obozu dla dzieci polskich",
+            "en": "Prisoner of the Polish children camp"
+          },
+          "images": [
+            {
+              "url": "assets/DSC04260.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Obóz - Wikipedia"
+              },
+              "url": "https://pl.wikipedia.org/wiki/Ob%C3%B3z_przy_ul._Przemys%C5%82owej_w_%C5%81odzi"
+            },
+            {
+              "name": {
+                "en": "Kinder-KZ - Wikipedia"
+              },
+              "url": "https://en.wikipedia.org/wiki/Kinder_KZ"
+            }
+          ],
+          "description": {
+            "pl": "Uzasadnienie koncepcji utworzenia obozów prewencyjno-izolacyjnych dla dzieci polskich: „Na naszych wschodnich terenach Niemiec zaniedbanie młodzieży polskiej rozwinęło się poważnie i stanowi groźne niebezpieczeństwo dla młodzieży niemieckiej Przyczyny tego zaniedbania leżą przede wszystkim w nieprawdopodobnie niskim standardzie życia Polaków. Wojna rozbiła wiele rodzin, a uprawnieni do wychowywania nie są w stanie spełniać swych obowiązków, polskie zaś szkoły zamknięto. Stąd też dzieci polskie wałęsają się bez jakiegokolwiek dozoru i zajęcia, handlują żebrzą, kradną, stając się źródłem moralnego zagrożenia dla młodzieży niemieckiej”.",
+            "en": "The reasoning behind the concept of creating the prevention-isolation camps for Polish children: “On our Eastern territories the neglect of the Polish youth has taken serious form and is dangerous for the German youth. The cause for such neglect is mainly the improbably low standard of living among the Polish people. The war has separated many families, and those appointed by the law to take care of the youngsters are not capable of performing their tasks, Polish schools were closed. Therefore, the Polish children wander around without any supervision or activities, they are sellers, beggars, thieves, becoming the source of moral threat for the German youth”."
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Mikołaja Reja 7.",
+            "en": "Mural is located on the wall of the house at 7 Mikołaja Reja street."
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "pl": "Edycja druga",
+        "en": "Second edition"
+      },
+      "items": [
+        {
+          "type": "poi",
+          "coordinates": [
+            51.790140, 19.476048
+          ],
+          "name": {
+            "pl": "Chłopiec z obozu dla dzieci polskich",
+            "en": "Boy from the Polish children camp"
+          },
+          "images": [
+            {
+              "url": "assets/DSC04251.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Obóz - Wikipedia"
+              },
+              "url": "https://pl.wikipedia.org/wiki/Ob%C3%B3z_przy_ul._Przemys%C5%82owej_w_%C5%81odzi"
+            },
+            {
+              "name": {
+                "en": "Kinder-KZ - Wikipedia"
+              },
+              "url": "https://en.wikipedia.org/wiki/Kinder_KZ"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Przemysłowej 16.",
+            "en": "Mural is located on the wall of the house at 16 Przemysłowa street."
+          },
+          "description": {
+            "pl": "W obozie dla dzieci polskich, na śniadanie i kolację, dziecku przysługiwała pajda chleba i pół litra czarnej kawy, a na obiad litr zupy z brukwi, liści buraków lub kapusty. Głód w obozie zaspokajany był dzięki nielicznym paczkom przesyłanym przez rodziny oraz ptakom upolowany na jego terenie.",
+            "en": "In the camp for Polish children, a child was assigned a slice of bread and half a litre of black coffee for breakfast and supper, for dinner – a litre of soup made of turnip, beetroot leaves or cabbage. The hunger in the camp was satisfied with scarce parcels sent by families or birds caught in the camp."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.789762, 19.474677
+          ],
+          "name": {
+            "pl": "Chłopiec z obozu dla dzieci polskich",
+            "en": "Boy from the Polish children camp"
+          },
+          "images": [
+            {
+              "url": "assets/DSC04259.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Obóz - Wikipedia"
+              },
+              "url": "https://pl.wikipedia.org/wiki/Ob%C3%B3z_przy_ul._Przemys%C5%82owej_w_%C5%81odzi"
+            },
+            {
+              "name": {
+                "en": "Kinder-KZ - Wikipedia"
+              },
+              "url": "https://en.wikipedia.org/wiki/Kinder_KZ"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Mikołaja Reja 13.",
+            "en": "Mural is located on the wall of the house at 13 Mikołaja Reja street."
+          },
+          "description": {
+            "pl": "W obozie obowiązywał ośmiogodzinny dzień pracy. Każdy musiał wypracować ustaloną normę.  Dziewczynki pracowały w pralni, kuchni, pracowni krawieckiej i ogrodzie. Chłopcy wyrabiali buty ze słomy, koszyki z wikliny, paski do masek gazowych oraz skórzane części do plecaków. Jedną z powszechnie stosowanych kar było całkowite lub częściowe pozbawienie posiłków.",
+            "en": "In the camp, there was an 8 hour working day. Everyone had to do the minimum norm. Girls worked in the laundry, kitchen, sewing workshop and the garden. Boys made shoes from straw, wicker baskets, strips for gas masks and leather parts for backpacks. One of the most common punishments was partial or total deprivation of meals."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.787149, 19.468031
+          ],
+          "name": "Abramek Cytryn",
+          "images": [
+            {
+              "url": "assets/abramek.jpg"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Abram Cytryn - Wikipedia"
+              },
+              "url": "https://pl.wikipedia.org/wiki/Abram_Cytryn"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje się na ścianie kamienicy ul.Starosikawskiej 9.",
+            "en": "Mural is located on the wall of the house at 9 Starosikawska street."
+          },
+          "description": {
+            "pl": "Był pisarzem i poetą wychowanym w Łodzi. Pisał od ósmego roku życia. Więziony w Litzmannstadt Getto nadal tworzył. W 1944 został wywieziony do obozu w Auschwitz-Birkenau i zamordowany. Najlepsze swoje utwory zabrał ze sobą. Pozostałe odnalazła w ruinach getta jego siostra Lucie.",
+            "en": "Writer and poet, grew up in Łódź. He wrote since he was 8 years old. Imprisoned in the Litzmannstadt Ghetto, he was still writing. In 1944, he was taken to the Auschwitz-Birkenau camp and murdered. He took his best works with him. The rest was found by his sister Lucie."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.786731, 19.467937
+          ],
+          "name": {
+            "pl": "Chłopiec z obozu cygańskiego",
+            "en": "Boy from the Gypsy camp"
+          },
+          "images": [
+            {
+              "url": "assets/DSC04282.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Obóz - Litzmannstadt Getto"
+              },
+              "url": "http://www.lodzgetto.pl/oboz_cyganski.html,36"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Wojska Polskiego 82.",
+            "en": "Mural is located on the wall of the house at 82 Wojska Polskiego street."
+          },
+          "description": {
+            "pl": "5 listopada 1941 r. w niewielkiej części Litzmannstadt Getto wydzielono teren pod obóz, w którym więziono 5 tys. Romów i Sinti. Ponad połowę stanowiły dzieci. „Obóz cygański” był gettem w gettcie – otoczony drutem kolczastym i z dwóch stron fosą.",
+            "en": "On November 1941, in the small part of the Litzmannstadt Ghetto, an area was delineated for a camp, where 5 thousand Roma and Sinti were imprisoned. Over half of them were children. The “Gypsy camp” was a ghetto within a ghetto – bordered with a barbed wire and a ditch from two sides."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.786420, 19.467918
+          ],
+          "name": {
+            "pl": "Dziewczynka z obozu cygańskiego",
+            "en": "Girl from the Gypsy camp"
+          },
+          "images": [
+            {
+              "url": "assets/DSC04275.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Obóz - Litzmannstadt Getto"
+              },
+              "url": "http://www.lodzgetto.pl/oboz_cyganski.html,36"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Wojska Polskiego 82.",
+            "en": "Mural is located on the wall of the house at 82 Wojska Polskiego street."
+          },
+          "description": {
+            "pl": "Nikt nie wiedział kim są i skąd pochodzą Romowie osadzeni w getcie. Przywieziono ich w dniach 5-9 listopada 1941 r. z Burgenlandu na pograniczu węgiersko-austriackim. Byli ludźmi wykształconymi. Po likwidacji obozu i wywiezieniu jego mieszkańców na śmierć żydowscy mieszkańcy getta odkryli na ścianach wstrząsające zapiski wykonane w jęz. niemieckim.",
+            "en": "November 5-9, 1941 from Burgenland, on the border between Austria and Hungary. There were educated people. After the termination of the camp and murdering its habitants, the Jewish prisoners of the ghetto discovered shocking writings on the walls in German."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.788927, 19.455540
+          ],
+          "name": "Dawid Sierakowiak",
+          "images": [
+            {
+              "url": "assets/DSC04301.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Dawid Sierakowiak - Wikipedia"
+              },
+              "url": "https://pl.wikipedia.org/wiki/Dawid_Sierakowiak"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Spacerowej 8.",
+            "en": "Mural is located on the wall of the house at 8 Spacerowa street."
+          },
+          "description": {
+            "pl": "Był zwyczajnym, a nadzwyczaj utalentowanym chłopakiem. Chodził do szkoły, jeździł na harcerskie obozy, miał w Łodzi pełno rodziny i przyjaciół. Uwięziony w getcie chciał zachować pozory normalnego życia. Dużo czytał, uczył się, ale z dnia na dzień był coraz bardziej głodny.  8 sierpnia 1943 zmarł. Miał 19 lat. Pozostawił po sobie pamiętnik, odnaleziony i wydawany po wojnie.",
+            "en": "He was a regular boy, very talented. He went to school, went to summer scout camps, had many friends and family in Łódź. Once he was imprisoned in the ghetto, he tried to maintain his old life. He read a lot, studied, but day by day, he was hungrier and hungrier. On August 8, 1943 he died, aged 19. He left a journal, found and published after the war."
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "pl": "Edycja trzecia",
+        "en": "Third edition"
+      },
+      "items": [
+        {
+          "type": "poi",
+          "coordinates": [
+            51.789964, 19.475805
+          ],
+          "type": "poi",
+          "name": {
+            "pl": "Chłopiec z obozu dla dzieci polskich",
+            "en": "Boy from the Polish children camp"
+          },
+          "images": [
+            {
+              "url": "assets/DSC04255.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Obóz - Wikipedia"
+              },
+              "url": "https://pl.wikipedia.org/wiki/Ob%C3%B3z_przy_ul._Przemys%C5%82owej_w_%C5%81odzi"
+            },
+            {
+              "name": {
+                "en": "Kinder-KZ - Wikipedia"
+              },
+              "url": "https://en.wikipedia.org/wiki/Kinder_KZ"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Przemysłowej 16.",
+            "en": "Mural is located on the wall of the house at 16 Przemysłowa street."
+          },
+          "description": {
+            "pl": "Po ukończeniu 16 lat dziecko przenoszono do obozu koncentracyjnego dla dorosłych. W większości przypadków jego nazwa brzmiała: Auschwitz-Birkenau. Żadne dziecko tam wywiezione nie przeżyło.",
+            "en": "After a child turned 16, they were transferred to a concentration camp for adults. In most cases it was Auschwitz-Birkenau. None of the children taken there survived."
+          }
+        },
+        {
+          "coordinates": [
+            51.786614, 19.467894
+          ],
+          "type": "poi",
+          "name": {
+            "pl": "Dziewczynka z obozu cygańskiego",
+            "en": "Girl from Gypsy camp"
+          },
+          "images": [
+            {
+              "url": "assets/DSC04279.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Obóz - Litzmannstadt Getto"
+              },
+              "url": "http://www.lodzgetto.pl/oboz_cyganski.html,36"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Wojska Polskiego 82.",
+            "en": "Mural is located on the wall of the house at 82 Wojska Polskiego street."
+          },
+          "description": {
+            "pl": "Warunków w obozie nie da się opisać. Panował głód. Nie było latryn, łaźni, wody, kuchni, naczyń. W niedługim czasie wybuchła epidemia tyfusu, która zdziesiątkowała tę niewielką społeczność. Obawiając się rozprzestrzenienia się choroby Niemcy postanowili zlikwidować obóz i jego mieszkańców, których w dniach 5-12 stycznia 1942 r. przewieźli na śmierć do obozu zagłady w Kulmhof.",
+            "en": "The conditions in the camp are beyond description. There was famine. No toilets, baths, water, kitchens, dishes. In a short time, an epidemic of typhus broke, which decimated this small community. In fear of spreading the epidemic further, the Germans decided to terminate the camp and its habitants, which were taken to the death camp in Kulmhof on January 5 – 12, 1942."
+          }
+        },
+        {
+          "coordinates": [
+            51.786289,19.466047
+          ],
+          "name": "Abramek Kopalowicz",
+          "images": [
+            {
+              "url": "assets/DSC04289.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            },
+            {
+              "name": {
+                "pl": "Abraham Koplowicz - Wikipedia"
+              },
+              "url": "http://pl.wikipedia.org/wiki/Abraham_Koplowicz"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Wojska Polskiego 70b.",
+            "en": "Mural is located on the wall of the house at 70b Wojska Polskiego street."
+          },
+          "description": {
+            "pl": "W spisie mieszkańców getta w rubryce „zawód” przy nazwisku Abramka wpisano „uczeń”. Ukończył dwie klasy. Pisał wiersze. Zginął w Auschwitz kiedy miał 14 lat. Przed śmiercią próbował ratować go ojciec ukrywając syna w opuszczonym domu. Któregoś dnia zastał puste pomieszczenie. Odnalazł jedynie notatnik z rysunkami i wierszami zatytułowany „Utwory własne”. Jeden z wierszy Abramka zatytułowany „Marzenie” został przetłumaczony na 15 języków.",
+            "en": "In the register of the ghetto, there was “occupation: pupil” written next to Ambramek. He finished 2 classes. He wrote poems. Died in Auschwitz when he was 14. His father tried to save him from death, hiding him in an abandoned house. One day, he found that the room was empty. He only found a journal with drawings and poems, entitled “Own Works”. One of Abramek’s poems, entitled “A Dream” was translated into 15 languages."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.783689, 19.460334
+          ],
+          "name": "Salek Berliński",
+          "images": [
+            {
+              "url": "assets/DSC04291.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Franciszkańskiej 24.",
+            "en": "Mural is located on the wall of the house at 24 Franciszkańska street."
+          },
+          "links": [],
+          "description": {
+            "pl": "Jego mama miała na imię Róża, a tata Izydor. Była jeszcze siostrzyczka. Przed wojną mieszkali przy ul. 11 Listopada (obecnie Legionów) 37. Mieli tam też sklep – skład kolonialny z owocami południowymi i kosmetykami.",
+            "en": "His mother’s name was Rose, his father’s – Izydor. There was also his little sister. Before the war, they lived in 11 Listopada street (now Legionów). They had a shop there – colonial products with Southern fruits and cosmetics."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.792200, 19.452685
+          ],
+          "name": "Zisele Świerc",
+          "images": [
+            {
+              "url": "assets/DSC04310.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Gęsiej 1.",
+            "en": "Mural is located on the wall of the house at 1 Gęsia street."
+          },
+          "description": {
+            "pl": "Zisele nazywano czasami Zosią. Kiedy wybuchła wojna miała pięć lat. Wraz z rodziną przeżyła wielkie bombardowanie Sulejowa, gdzie jej rodzina przebywała w pierwszych dniach września. Nie wiadomo czy Świercowie wrócili do rodzinnej Łodzi czy pozostali w Sulejowie. Getto sulejowskie zlikwidowano w dniach 14-21 października 1942. Mieszkańców wywieziono na śmierć do Treblinki.",
+            "en": "Zisele was sometimes called Zosia. When the war started, she was 5. Together with her family, she survived the big bombing of Sulejów, where her family stayed in the first days of September. We don’t know if the Świecs came back to their city of origin – Łódź or stayed in Sulejów. The Sulejów ghetto was terminated on October 14 – 21, 1942. The residents were taken to Treblinka. "
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "pl": "Edycja czwarta",
+        "en": "Fourth edition"
+      },
+      "items": [
+        {
+          "type": "poi",
+          "coordinates": [
+            51.788977, 19.455540
+          ],
+          "name": {
+            "pl": "Kolega z klasy Dawida Sierakowiaka",
+            "en": "Dawid Sierakowiak with classmate"
+          },
+          "images": [
+            {
+              "url": "assets/IMG_20160101_124324.jpg"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "Zachowała się tylko jedna fotografia Dawida Sierakowiaka – na zdjęciu klasowym, przez co nie do końca wiadomo, który z chłopców jest właśnie nim. Postać uwieczniona na pierwszym muralu przez lata uważana była za właściwą. Ostatnimi czasy zaczęło uważać, że jest inaczej. Dlatego na ścianie przy ul. Spacerowej 8 można oglądać dwa portrety. Jeden z nich jest prawdziwy.",
+            "en": "Only one photo of Dawid Sierakowiak was preserved – a class photo, which makes it difficult to tell for sure which of the two boys is Dawid.  For many years, the boy from the first mural was believed to be him, but lately there was suspicion that he is not. That’s why on the wall, at 8 Spacerowa street, you can see 2 portraits. One of them is real."
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Spacerowej 8.",
+            "en": "Mural is located on the wall of the house at 8 Spacerowa street."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.784882, 19.456951
+          ],
+          "name": {
+            "pl": "Dziewczynka z placu Jojne Pilicera",
+            "en": "Girl from the Jojne Pilicer Square"
+          },
+          "images": [
+            {
+              "url": "assets/IMG_20160101_125757.jpg"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "Plac Jojne Pilicera w 1936 roku uwiecznił wielbiciel Łodzi, fotograf Włodzimierz Pfeiffer. Na pierwszym planie widzimy małą dziewczynkę. Teraz jej portret znajduje się na ścianie budynku przy ul. Berlińskiego 15 - na tyłach placu.",
+            "en": "Only one photo of Dawid Sierakowiak was preserved – a class photo, which makes it difficult to tell for sure which of the two boys is Dawid.  For many years, the boy from the first mural was believed to be him, but lately there was suspicion that he is not. That’s why on the wall, at 8 Spacerowa street, you can see 2 portraits. One of them is real."
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Berlińskiego 15.",
+            "en": "Mural is located on the wall of the house at 8 Spacerowa street."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.786980, 19.463181
+          ],
+          "name": {
+            "pl": "Dziewczynka żydowska",
+            "en": "Jewish girl"
+          },
+          "images": [
+            {
+              "url": "assets/IMG_20160101_131055.jpg"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "Widnieje na fotografii Włodzimierza Pfeiffera z 1936 roku wykonanej przy ul. Wolborskiej. Po przedwojennej zabudowie nie został żaden ślad. Nie ma domów. Nie ma ulic. Jest park Staromiejski.",
+            "en": "She is in the picture taken in 1936 by Włodzimierz Pfeiffer, in Wolborska street. There is nothing left from the buildings that were there before the war. No houses, no streets. Nowadays it’s the Starmiejski park. "
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Zielnej 9.",
+            "en": "Mural is located on the wall of the house at 9 Zielna street."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.789716, 19.475757
+          ],
+          "name": {
+            "pl": "Więzień obozu dla dzieci polskich",
+            "en": "Prisoner from the Polish children camp"
+          },
+          "images": [
+            {
+              "url": "assets/DSC05305.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "Mural powstał w pobliżu obozu dla dzieci polskich przy ul. Przemysłowej. Przedstawia anonimowego chłopca na placu apelowym. Dzieci musiały stać na nim godzinami. Często na mrozie polewano je wodą.",
+            "en": "The mural is located near the Polish children camp in Przemysłowa street. It represents an anonymous boy in the assembly square. The children had to stand there for hours. Sometimes, they were hosed with water when it was freezing cold."
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje sie na ścianie kamienicy przy ul. Przemysłowej 12.",
+            "en": "Mural is located on the wall of the house at 12 Przemysłowa street."
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "pl": "Edycja piąta",
+        "en": "Fifth edition"
+      },
+      "items": [
+        {
+          "type": "poi",
+          "coordinates": [
+            51.781624, 19.459462
+          ],
+          "name": {
+            "pl": "Żydowski chłopiec z Europy Zachodniej",
+            "en": "Jewish Boy"
+          },
+          "images": [
+            {
+              "url": "assets/5_1.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "W październiku 1941 r. Niemcy przywieźli do getta 20 tys. Żydów z Zachodniej Europy. Wśród nich było wielu naukowców, lekarzy, pisarzy, artystów m.in. z Berlina, Pragi, Wiednia, Frankfurtu n. Menem. Był więc Paul Kornfeld jeden z najciekawszych pisarzy ówczesnej Europy, dwie rodzone siostry Franza Kafki, wybitny specjalista w dziedzinie chorób nowotworowych prof. Wilhelm Caspari. Przy ul. Jakuba 10 zakwaterowani zostali Żydzi z Frankfurtu nad Menem oraz Pragi.",
+            "en" :"In October 1941, the Germans brought 20 thousand Jews to the ghetto from the Western Europe. Among them there were many scientists, doctors, writers, artists from Berlin, Prague, Vienna, Frankfurt. There was Paul Kornfeld, one of the most intriguing writer of contemporary Europe, two sisters of Franz Kafka, professor Wilhelm Caspari, a distinguished expert in the field of cancerous diseases. At 10 Jakuba street, there lived Jews from Frankfurt am Mein and Prague."
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje się na ścianie kamienicy przy ul. Jakuba 10.",
+            "en": "Mural is located on the wall of the house at 10 Jakuba street."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.781249, 19.461586
+          ],
+          "name": {
+            "pl": "Żydowski chłopiec z Europy Zachodniej",
+            "en": "Jewish Boy"
+          },
+          "images": [
+            {
+              "url": "assets/5_2.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "Do Litzmannstadt Getto trafił w październiku 1941 roku. Przy ul. Franciszkańskiej 13 zakwaterowani zostali Żydzi z Frankfurtu nad Menem.",
+            "en": "He was brought to the Litzmannstadt Ghetto in October 1941. At 13 Franciszkańska street, there lived Jews from Frankfurt am Mein. "
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje się na ścianie kamienicy przy ul. Franciszkańskiej 13.",
+            "en": "Mural is located on the wall of the house at 13 Franciszkańska  street."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.787364, 19.469947
+          ],
+          "name": {
+            "pl": "Dziewczynka z obozu cygańskiego",
+            "en": "Girl from the gipsy camp"
+          },
+          "images": [
+            {
+              "url": "assets/5_3.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "Jest to symboliczne przedstawienie, ponieważ z obozu dla Romów nie zachowało się żadne zdjęcie. Jako wzór posłużyły fotografie zrobione przez Niemców na terenie Burgenlandu w połowie lat 30. Stamtąd do Litzmannstadt Getto przywieziono najwięcej Romów. Nie wiedzieli, że skazano ich na śmierć.",
+            "en": "It’s a symbolic representation because no picture was left from the Roma camp. The mural was based on the photographs made by Germans in Burgerland in mid-1930’s. The biggest number of the Roma people brought to the camp were from there. They didn’t know they were sentenced to death."
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje się na ścianie kamienicy przy ul. Starosikawskiej 23.",
+            "en": "Mural is located on the wall of the house at 23 Starosikawska  street."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.790564, 19.476543
+          ],
+          "name": {
+            "pl": "Małoletni więźniowie z obozu dla dzieci polskich",
+            "en": "Underaged prisoners from the Polish children camp"
+          },
+          "images": [
+            {
+              "url": "assets/5_4.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "Budynki przy ul. Przemysłowej 13 znajdowały się  po stronie „aryjskiej”. Naprzeciw - furtka do getta, a obok strażnica.",
+            "en": "The buildings at 13 Przemysłowa street were on the Aryan side. Opposite, there was a gate to the ghetto, next to it – a watchtower."
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje się na ścianie kamienicy przy ul. Przemysłowej 13a.",
+            "en": "Mural is located on the wall of the house at 13a Przemysłowa  street."
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "pl": "Edycja szósta",
+        "en": "Sixth edition"
+      },
+      "items": [
+        {
+          "type": "poi",
+          "coordinates": [
+            51.8026978, 19.4780718
+          ],
+          "name": {
+            "pl": "Dziewczynka – ofiara Wielkiej Szpery 1942 roku",
+            "en": "Girl - the victim of ‘Wielka Szpera‘ of 1942"
+          },
+          "images": [
+            {
+              "url": "assets/6_1.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "Nazwa tego tragicznego wydarzenia pochodzi od „Allgemeine Gehsperre”, czyli ogłoszonego przez niemieckie władze okupacyjne całkowitego zakazu opuszczania domów, co oznaczało selekcję osób przeznaczonych na śmierć. W dniach 5-12 września 1942 r. wywieziono z Litzmannstadt Ghetto ponad 15 tysięcy osób, w tym dużo ponad dziesięć tysięcy - niemal wszystkie dzieci poniżej 10 roku życia.",
+            "en" :"The name of this tragic event came from the words “Allgemeine Gehsperre”, meaning the total ban of leaving the house, announced by the German authorities. It meant the selection of the people condemned to death. On 5 to 15 September, 1942 over 15 thousand people were deported from the ghetto, including over 10 thousand children under 10 years of age (almost all children from the ghetto)."
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje się  na  ścianie kamienicy przy  alei Pamięci Ofiar Litzmannstadt Getto 8.",
+            "en": "The mural is located on the wall of the house at 8, Pamięci Ofiar Litzmannstadt Ghetto street."
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.8026328, 19.4782278
+          ],
+          "name": {
+            "pl": "Chłopiec – ofiara Wielkiej Szpery 1942 roku",
+            "en": "Boy - the victim of ‘Wielka Szpera‘ of 1942"
+          },
+          "images": [
+            {
+              "url": "assets/6_2.JPG"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "Podczas „Wielkiej Szpery” dzieci odebrano bliskim, wywożono z sierocińców, przytułków i szpitali do obozu zagłady w Kulmhof, jak nazwano kiedyś zwyczajną miejscowość Chełmno nad Nerem. Tym samym Litzmannstadt Ghetto stało się gigantycznym obozem przymusowej pracy. Bez nadziei na ocalenie.",
+            "en": "During the ‘Wielka Szpera’ children were taken away from their parents, from the orphanages, hospitals and taken to the Kulmhof death camp (a former name for the town Chełmno on Ner). Thus turning the Litzmannstadt Ghetto onto a giant labor camp, with no hope for rescue."
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje się  na  ścianie kamienicy przy  alei Pamięci Ofiar Litzmannstadt Getto 8.",
+            "en": "The mural is located on the wall of the house at 8, Pamięci Ofiar Litzmannstadt Ghetto street."
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "pl": "Edycja siódma",
+        "en": "Seventh edition"
+      },
+      "items": [
+        {
+          "type": "poi",
+          "coordinates": [
+            51.789008, 19.456440
+          ],
+          "name": {
+            "pl": "Anonimowa dziewczynka żydowska",
+            "en": "Anonimowa dziewczynka żydowska"
+          },
+          "images": [
+            {
+              "url": "assets/wawelska.jpg"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "Mural przywołuje wizerunek żydowskiej dziewczynki z Litzmannstadt Ghetto. Mendel Grossman fotografował życie getta. Mural nawiązuje do zdjęcia koncertu Jankiela Herszkowicza wykonanego przez Grossmana w 1941 roku."
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje się na ścianie domu przy ul. Wawelskiej 1"
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.792509, 19.473520
+          ],
+          "name": {
+            "pl": "Gienia Wójcik",
+            "en": "Gienia Wójcik"
+          },
+          "images": [
+            {
+              "url": "assets/plater.jpg"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "Mural przedstawia Gienię Wójcik (Kowalczuk) – dziewczynkę, która w wielu 13 lat z więzienia dla kobiet przy ul. Gdańskiej została przewieziona do obozu dla dzieci polskich. Tam dostała nr 28. Z Przemysłowej trafiła do Dzierżąznej. Przeżyła."
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje się na Szkole Podstawowej nr 81 ul. Emilii Plater 28/32"
+          }
+        },
+        {
+          "type": "poi",
+          "coordinates": [
+            51.929657, 19.446404
+          ],
+          "name": {
+            "pl": "Halina Bednarek",
+            "en": "Halina Bednarek"
+          },
+          "images": [
+            {
+              "url": "assets/20180619_142712.jpg"
+            }
+          ],
+          "links": [
+            {
+              "name": {
+                "pl": "Strona projektu",
+                "en": "Project website"
+              },
+              "url": "http://dziecibalut.pl"
+            }
+          ],
+          "description": {
+            "pl": "W pierwszej połowie 1943 roku na folwarku w Dzierżąznej koło Białej w pobliżu Zgierza powstała filia obozu Jugendverwahrlager der Sicherheitspolizei in Litzmannstadt. Tam  dziewczęta w wielu 8-16 lat przyuczano do pracy na roli. „Halina Bednarek” urodzona 3 marca 1929 r. Pobyt w Dzierżąznej był dla niej szansą na przeżycie.”"
+          },
+          "locationDescription": {
+            "pl": "Mural znajduje się na ścianie Szkoły Podstawowej w Białej "
+          }
+        }
+      ]
+    }
+  ],
+  "interface": {
+    "status": {
+      "new": {
+        "pl": "Nowy"
+      },
+      "update": {
+        "pl": "Zaktualizowany"
+      },
+      "restricted": {
+        "pl": "Ograniczony dostęp"
+      },
+      "nonexistent": {
+        "pl": "Nieistniejący"
+      }
+    },
+    "gps": {
+      "turnOn": {
+        "title": {
+          "pl": "Włączyć lokalizację?",
+          "en": "Turn on location service?"
+        },
+        "description": {
+          "pl": "Lokalizacja automatycznie wyłączy się gdy urządzenie jest nieaktywne lub aplikacja nie jest używana. Usługę można zawsze wyłączyć przytrzymując ikonę lokalizacji.",
+          "en": "Location will automatically turn off when device is inactive or guide not used. You can turn off service any time by long pressing location icon."
+        }
+      },
+      "notAvaliable": {
+        "title": {
+          "pl": "Lokalizacja niedostępna!",
+          "en": "Location is not available!"
+        },
+        "description": {
+          "pl": "Twoja aktualna lokalizacja nie jest teraz dostępna.",
+          "en": "Your location is currently not available."
+        }
+      },
+      "turnOff": {
+        "title": {
+          "pl": "Wyłączyć lokalizację?",
+          "en": "Tunr off location service?"
+        }
+      },
+      "serviceNotAvaliable": {
+        "title": {
+          "pl": "Nie można wyświetlić lokalizacji!",
+          "en": "Could not provide location."
+        },
+        "description": {
+          "pl": "Lokalizacja nie jest obsługiwana przez Twoje urządzenie.",
+          "en": "Location service is not supportet by your device."
+        }
+      }
+    },
+    "technologies": {
+      "title": {
+        "pl": "Użyte technologie:",
+        "en": "Technologies:"
+      },
+      "items": [
+        {
+          "name": "Framework7",
+          "url": "http://www.idangero.us/framework7"
+        },
+        {
+          "name": "Apache Cordova",
+          "url": "https://cordova.apache.org/"
+        },
+        {
+          "name": "Leaflet",
+          "url": "http://leafletjs.com/"
+        },
+        {
+          "name": "RequireJS",
+          "url": "http://requirejs.org/"
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/"
+        },
+        {
+          "name": "Maperitive",
+          "url": "http://maperitive.net/"
+        }
+      ]
+    },
+    "settings": {
+      "name": {
+        "pl": "Ustawienia",
+        "en": "Settings"
+      },
+      "offlineMaps": {
+        "pl": "Mapy z pamięci",
+        "en": "Offline maps"
+      }
+    },
+    "version": {
+      "pl": "Wersja: ",
+      "en": "Version: "
+    },
+    "author": {
+      "name": "Na co dzień i od święta",
+      "description": {
+        "pl": "Działalności Stowarzyszenia „Na co dzień i od święta” polegają na pobudzaniu działań twórczych, upowszechnianiu i ochronie kultury przy wykorzystaniu innowacyjnych metod. Działania te polegają na: rozpoznawaniu, rozbudzaniu i zaspakajaniu współczesnych potrzeb artystycznych oraz zainteresowań kulturalnych mieszkańców Łodzi i województwa łódzkiego poprzez organizację nowatorskich wydarzeń kulturalnych oraz interdyscyplinarnych akcji edukacyjno-artystycznych z wykorzystaniem działań interaktywnych. Organizacja wspiera młodych twórczych ludzi, dając im możliwość udziału w projektach, których przedmiotem jest edukacja kulturalna i artystyczna. W tych działaniach uczestnicy nabywają nowych umiejętności, zdobywają doświadczenie, nie tylko w bezpośrednich kontaktach z publicznością, ale także z przedstawicielami urzędów, instytucji i biznesu. Te zdolności obecnie stanowią bardzo ważny element ścieżki sukcesu i doskonałe podstawy do budowania kariery po zakończeniu edukacji w życiu zawodowym."
+      }
+    },
+    "navbar": {
+      "about": {
+        "pl": "Informacje",
+        "en": "About"
+      },
+      "list": {
+        "pl": "Lista",
+        "en": "List"
+      },
+      "next": {
+        "pl": "Następny",
+        "en": "Next"
+      },
+      "prev": {
+        "pl": "Poprzedni",
+        "en": "Previous"
+      }
+    },
+    "location": {
+      "pl": "lokalizacja",
+      "en": "location"
+    },
+    "more": {
+      "pl": "Więcej na:",
+      "en": "Find out more:"
+    },
+    "back": {
+      "pl": "Wstecz",
+      "en": "Back"
+    },
+    "of": {
+      "pl": "z",
+      "en": "of"
+    },
+    "exitPrompt": {
+      "title": {
+        "pl": "Wyjście!",
+        "en": "Exit!"
+      },
+      "description": {
+        "pl": "Zamknąć przewodnik?",
+        "en": "Close the guide?"
+      }
+    }
+  }
+}
