@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Miejsca</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Synagoga Wielka</name>
+      <description><![CDATA[<img src="https://doc-08-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/0k30cm0o501pnur0vli6otegtc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lbliX2S2dJ1a9eUwCSA3dBW02vUkyJIGBfW4EEjo49QEU_oaGI-S5tX9xF_J4ILEh5nlR5_fQwMDtYvBk2PmknYsC4w06eqeeq8ZI6xH-vjG9ETyCe54v-Nilp1gRoyG36J8jZe50Zp0GyICMtqinVCg428W6UlJIwJ0kmlFe1mWmOXDzhNO853up0ZtVVm_Q?session=0&fife" height="200" width="auto" /><br><br>Zbudowana została w latach 1864-1878 przy ul. Handlowej. Był to budynek na planie prostokąta, nakryty dwuspadowym dachem. Duże, prostokątne okna zakończone były półkolistymi łukami z arkadami. Na wprost wejścia mieściła się duża sala modlitw, przy wejściu znajdowały się schody prowadzące na babiniec. Autorem wystroju był malarz Dawid Warzager. W październiku 1939 r. synagoga została spalona przez Niemców.<br><br><img src="https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/bm7a12b4eiuhvfjgefug1hu1f8/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lGJf2nTLDhN5TittbhD7hqgy_d2ixs3OtQZNJCcWQozZmDetEW9HtV-djnO9w7xOHxLGCJotL8WgRd8o0KSLuLPxvgtOZiceffpiI7Po1jVRnivgDorZyUTYRu-AZ8OcDXoKJ78xSPFq91IAGDsQv5U0Bq6L7GDMDc9PGxLDnu4oaYuOFRKoPFYMdkQWL1wQU?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-14-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/nha7pdbkf5d6ged674pjm2e6hc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9m6rg9Dxjl8jcj0hD6nlE9x3J6JFP5av-LiMhQJSKJ_H9LQZi8MfiE8c5x8s2WZos0xw9W60O-NZgxdB9Ig0CIxHRPTeVb3-e5uMVTNgJ0UqNb7DA9psOo25kvx1dxle5lUUSfMtnHTQJmj3IB4k3jmKmwz1b_HZOtQp1EGGZVU0h8ylv8y_NvjQveTs17io3I?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/0k30cm0o501pnur0vli6otegtc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lbliX2S2dJ1a9eUwCSA3dBW02vUkyJIGBfW4EEjo49QEU_oaGI-S5tX9xF_J4ILEh5nlR5_fQwMDtYvBk2PmknYsC4w06eqeeq8ZI6xH-vjG9ETyCe54v-Nilp1gRoyG36J8jZe50Zp0GyICMtqinVCg428W6UlJIwJ0kmlFe1mWmOXDzhNO853up0ZtVVm_Q?session=0&fife https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/bm7a12b4eiuhvfjgefug1hu1f8/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lGJf2nTLDhN5TittbhD7hqgy_d2ixs3OtQZNJCcWQozZmDetEW9HtV-djnO9w7xOHxLGCJotL8WgRd8o0KSLuLPxvgtOZiceffpiI7Po1jVRnivgDorZyUTYRu-AZ8OcDXoKJ78xSPFq91IAGDsQv5U0Bq6L7GDMDc9PGxLDnu4oaYuOFRKoPFYMdkQWL1wQU?session=0&fife https://doc-14-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/nha7pdbkf5d6ged674pjm2e6hc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9m6rg9Dxjl8jcj0hD6nlE9x3J6JFP5av-LiMhQJSKJ_H9LQZi8MfiE8c5x8s2WZos0xw9W60O-NZgxdB9Ig0CIxHRPTeVb3-e5uMVTNgJ0UqNb7DA9psOo25kvx1dxle5lUUSfMtnHTQJmj3IB4k3jmKmwz1b_HZOtQp1EGGZVU0h8ylv8y_NvjQveTs17io3I?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0052832,51.5291841,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mykwa</name>
+      <description><![CDATA[<img src="https://doc-0o-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/nhbqoon4jn7650svhukotk1kj0/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lj6eafmqSS603lzY6QXIAnCeFhY05m89u5w1K1x3BpDQaY67nvvyOYukzCRYOSFBYmw8HTWEbESqAVmO2P2o5io-W9tPixpgnrhng8kjhIJq9NTGUZvdpT_Zzml1s8PynByTJnqTLKPeXMmICV51E9x36jAtQMsCGD6DO5wkb8DsOeU8wBU4fD-ELfnH6Oggs?session=0&fife" height="200" width="auto" /><br><br>Parterowy, murowany budynek mykwy wzniesiony został w XIX w. przy ul. Tkackiej 8-10. Do czasów obecnych zachował się zaledwie fragment muru od strony ulicy.<br><br><img src="https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/o8vde1i61dua9990hclhlpf314/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9keASF03Dn-ohf9AFiFp9loG-8282ZCUYbMda6_MMWWxpXkLqG0KeUfeK-OMxYEfZfHI2iEguPCku8eS9W7KsrF_i0WR5aOdoMyKmTm7lLYq6oBc_nVhVMmt52gie-LW1wJDN5TQOZ1KmkKl7JrbcIUNl_4D38CCsWyjlXTZ3xn4AULz5hDZcSDZOz_hr-cMg?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/nhbqoon4jn7650svhukotk1kj0/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lj6eafmqSS603lzY6QXIAnCeFhY05m89u5w1K1x3BpDQaY67nvvyOYukzCRYOSFBYmw8HTWEbESqAVmO2P2o5io-W9tPixpgnrhng8kjhIJq9NTGUZvdpT_Zzml1s8PynByTJnqTLKPeXMmICV51E9x36jAtQMsCGD6DO5wkb8DsOeU8wBU4fD-ELfnH6Oggs?session=0&fife https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/o8vde1i61dua9990hclhlpf314/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9keASF03Dn-ohf9AFiFp9loG-8282ZCUYbMda6_MMWWxpXkLqG0KeUfeK-OMxYEfZfHI2iEguPCku8eS9W7KsrF_i0WR5aOdoMyKmTm7lLYq6oBc_nVhVMmt52gie-LW1wJDN5TQOZ1KmkKl7JrbcIUNl_4D38CCsWyjlXTZ3xn4AULz5hDZcSDZOz_hr-cMg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0057323,51.5323625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Szkoła Talmud-Tora</name>
+      <description><![CDATA[<img src="https://doc-0k-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/0oat2tioiim40g7cl1qduor5gc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lEqmkeFs1QqSgXJg3_LZqfs5OLgmRK2gUU8DfbFt80m__Lri87UAh5HEvIwZRCCVWdaZvagfvXwBs1WiArOhAymYdL7KZRFTYzwzxhqQTXDo4dj3dDCjXfnoRSOfJQCZ4xTZJE7ZDPTnnbHXJLlYBPvYOLEt9XLUCxCBcnKaejxxeA6jKuVM-bTVEhwIqMbB8?session=0&fife" height="200" width="auto" /><br><br>Mieściła się przy ul. Polnej 22. Obecnie nie istnieje.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/0oat2tioiim40g7cl1qduor5gc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lEqmkeFs1QqSgXJg3_LZqfs5OLgmRK2gUU8DfbFt80m__Lri87UAh5HEvIwZRCCVWdaZvagfvXwBs1WiArOhAymYdL7KZRFTYzwzxhqQTXDo4dj3dDCjXfnoRSOfJQCZ4xTZJE7ZDPTnnbHXJLlYBPvYOLEt9XLUCxCBcnKaejxxeA6jKuVM-bTVEhwIqMbB8?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0091957,51.5279841,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cmentarz żydowski</name>
+      <description><![CDATA[<img src="https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/8uvfg08tgr4sde6qop12ecgkhc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lFbpxAd3flhofWds-h0T5py3ElZVShOWj8MFdpVMSwQtw_gQvS69wpkT_32Nzvq8rdLHgevgMWGKHBwfl8CanA8Npwv0LwJNgI79wbkMQlSYUVk5YMy5Zy2_IMVRMMmReabSfqlstXCW0HRNBWGK2jMClZUWPauJ0RgccBujm6Z1PpubT7kNl1lVOB5H0fzA?session=0&fife" height="200" width="auto" /><br><br>Założony został w 1831 r. na działce przy ul. Smutnej, ofiarowanej społeczność żydowskiej przez ówczesnego właściciela miasta – hrabiego Antoniego Ostrowskiego. Wcześniej tomaszowscy Żydzi korzystali z cmentarza w Inowłodzu.<br>W czasie okupacji niemieckiej był miejscem masowych egzekucji, a ciała zabitych chowano w zbiorowych, bezimiennych mogiłach. Na cmentarzu grzebano też osoby zmarłe, bądź zabite na terenie getta. Podczas II wojny światowej Niemcy zniszczyli część pomników nagrobnych i i użyli ich do prac budowlanych na terenie miasta. <br>Teren cmentarza zajmuje powierzchnię 2,9 ha i jest ogrodzony murem. Zachowało się na nim ok. 2 tys. nagrobków. Najstarszy z nich pochodzi z 1843 r. W 1989 r. cmentarz został wpisany do rejestru zabytków pod numerem 410.<br><br><img src="https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/vqhvi6j3nu53erp7o3d1do6rhc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mYjvCicg95R3JDmswlF7g66rG-E39j1E_6SWmL1Gpw4TpXy7NZU7EQUiY63KjjLWVO7hGs7L6sTwGQVoKCvbg6NTfAA6OzMio8t9FwzMuPo5IZOqctUiaJT9jHKsePHuoohMEJ_03tDOhaJzHn_h5EJOZcGX6Iiqb6VChMHtABVmOxBgMCUZUEpsxUsBapzrE?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/8uvfg08tgr4sde6qop12ecgkhc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lFbpxAd3flhofWds-h0T5py3ElZVShOWj8MFdpVMSwQtw_gQvS69wpkT_32Nzvq8rdLHgevgMWGKHBwfl8CanA8Npwv0LwJNgI79wbkMQlSYUVk5YMy5Zy2_IMVRMMmReabSfqlstXCW0HRNBWGK2jMClZUWPauJ0RgccBujm6Z1PpubT7kNl1lVOB5H0fzA?session=0&fife https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/vqhvi6j3nu53erp7o3d1do6rhc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mYjvCicg95R3JDmswlF7g66rG-E39j1E_6SWmL1Gpw4TpXy7NZU7EQUiY63KjjLWVO7hGs7L6sTwGQVoKCvbg6NTfAA6OzMio8t9FwzMuPo5IZOqctUiaJT9jHKsePHuoohMEJ_03tDOhaJzHn_h5EJOZcGX6Iiqb6VChMHtABVmOxBgMCUZUEpsxUsBapzrE?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0191921,51.5400081,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Getto</name>
+      <description><![CDATA[<img src="https://doc-14-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/97ub6muggbnmq3j51qfskrl7d8/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lv6h1Y9Qmw7QnKJ57II0DWC0N_TU72PlgYWP54AI6-N38pUR0mw8q9fXiYwvoJeroFB6XoGci_YRyZqBiPMEaGRiuutieYBW1yZ_bEs5Ig65D2zZZ9YZvj7MKYKeozXkgv3PiczR0EtGnFOIREQzoV3JubT0wvb25yY9c5YJaSR4xtUsgswcmDBZAVojO1-A?session=0&fife" height="200" width="auto" /><br><br>Utworzono je 15 grudnia 1940 r., gromadząc w nim 16,5 tys. Żydów (miejscowych oraz pochodzących z Łodzi, Płocka i Warszawy). Początkowo getto nie było ogrodzone i składało się z 3 części położonych w różnych rejonach miasta. Łączna powierzchnia tychże obszarów wynosiła 65 ha. Izolacja i zamknięcie getta (składającego się wówczas już tylko z jednej części) nastąpiło w listopadzie-grudniu 1941 r. Zmniejszono wtedy jego obszar i skoncentrowano przy ulicach: Wschodniej, Krzyżowej, Zgorzeleckiej, Legionów do Smugowej oraz wzdłuż ulic Granicznej i Polnej. Na terenie getta funkcjonował szpital i szkoła. Likwidacja getta nastąpiła w dniach 31 października – 2 listopada 1942 r. Część osób zabito na miejscu i po drodze na stacje, pozostałych w liczbie ok. 15 tys. wywieziono do obozu zagłady w Treblince. Dnia 4 grudnia 1942 r. getto w Tomaszowie przestało istnieć oficjalnie.<br><br><img src="https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/t7andgfa374jpto5m015gvi0ig/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kqS06i4I9bPP24M5xg8zk9dWbaesrP2O2S6DwA5LK4YXbEjJ_FGIP4BMmJGHpHZQNkjw8UwUPuEqGnCLwTbXknCsOCd3woH_sgwZp_EEHdtYcauuyyVs-3m9bB8M9F1CQi69fHfShGwxbM2-pnNizwpwCQgHFa3X0dW0esWzKfluqdXwSLTbwC2XLfkXFEEg?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/97ub6muggbnmq3j51qfskrl7d8/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lv6h1Y9Qmw7QnKJ57II0DWC0N_TU72PlgYWP54AI6-N38pUR0mw8q9fXiYwvoJeroFB6XoGci_YRyZqBiPMEaGRiuutieYBW1yZ_bEs5Ig65D2zZZ9YZvj7MKYKeozXkgv3PiczR0EtGnFOIREQzoV3JubT0wvb25yY9c5YJaSR4xtUsgswcmDBZAVojO1-A?session=0&fife https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/t7andgfa374jpto5m015gvi0ig/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kqS06i4I9bPP24M5xg8zk9dWbaesrP2O2S6DwA5LK4YXbEjJ_FGIP4BMmJGHpHZQNkjw8UwUPuEqGnCLwTbXknCsOCd3woH_sgwZp_EEHdtYcauuyyVs-3m9bB8M9F1CQi69fHfShGwxbM2-pnNizwpwCQgHFa3X0dW0esWzKfluqdXwSLTbwC2XLfkXFEEg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0020049,51.5301222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kościół pw. św. Trójcy</name>
+      <description><![CDATA[<img src="https://doc-0g-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/m40fnhjiejlp8a4519pril9s3s/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9l7dLpFg8pCYElCgH-jC7zVZ19d0zMOYYYFL0Ig38Mj25uSpD5pN5a2RsQiukcPhmjdZmdXwhipoaurN06jd4Kx55qsMJF_HPkkbuZSKGGvwyUKqFN9OqfkHEkEllICWd6cSDF4qvqPfDcWDO-oBpD4xgLgHmfCqzLxUrx9SFcmyL70b7T841lxN7WczVQ3Ow?session=0&fife" height="200" width="auto" /><br><br>Świątynię wzniesiono w latach 1823-1829 na posesji przy obecnym Placu T. Kościuszki 21. Jej wyposażanie trwało do 1841 r. Kościół stylistycznie nawiązuje do klasycyzmu, wzniesiony jest na planie prostokąta z prezbiterium zamkniętym półkolistą absydą. Na szczycie znajduje się trapezowata dzwonnika zwieńczona krzyżem. Budynek zachował się do czasów współczesnych. Obecnie nie jest użytkowany.<br><br><img src="https://doc-04-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/tbgocq2i09c6snqa9iclfc9c38/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nifKki3nLM1vYFAvm43mQ11y124spVeZp_DqSx50dNSLNGNkOiAfHwCJl6yzSpkGrEfdr_QcJ1jjXFK1vTvi3UGmW75mpZvZRPAcDzhYx1hADsKebwE5A3WQSSli7Xb4a7lBk7GTToTfdpdAQB_s463nD3Rxd4dYiq9JfvHQNqbEA5IU7AwsOAFeGkVNvsHw?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0c-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/tp8r9n068irhhk48vr8v0jnvi4/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lvelUjcEh0u7kVT-6_Wxombloq4uwa20jXtOHazeGtgVvZ7BsS9xkiag8BI56djLiOk78GSZ5pn35x67tw_urXRdrkOufPdOsFBnn_3Yud-TIVwfHldWJEE1urgVMX7DIEMUUi3bV4GG8W6OOkPsVrJMIsUauOZAsGOS_T7_OmaV-tCo1elZSFFNw7dYvPJ3k?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/m40fnhjiejlp8a4519pril9s3s/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9l7dLpFg8pCYElCgH-jC7zVZ19d0zMOYYYFL0Ig38Mj25uSpD5pN5a2RsQiukcPhmjdZmdXwhipoaurN06jd4Kx55qsMJF_HPkkbuZSKGGvwyUKqFN9OqfkHEkEllICWd6cSDF4qvqPfDcWDO-oBpD4xgLgHmfCqzLxUrx9SFcmyL70b7T841lxN7WczVQ3Ow?session=0&fife https://doc-04-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/tbgocq2i09c6snqa9iclfc9c38/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nifKki3nLM1vYFAvm43mQ11y124spVeZp_DqSx50dNSLNGNkOiAfHwCJl6yzSpkGrEfdr_QcJ1jjXFK1vTvi3UGmW75mpZvZRPAcDzhYx1hADsKebwE5A3WQSSli7Xb4a7lBk7GTToTfdpdAQB_s463nD3Rxd4dYiq9JfvHQNqbEA5IU7AwsOAFeGkVNvsHw?session=0&fife https://doc-0c-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/tp8r9n068irhhk48vr8v0jnvi4/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lvelUjcEh0u7kVT-6_Wxombloq4uwa20jXtOHazeGtgVvZ7BsS9xkiag8BI56djLiOk78GSZ5pn35x67tw_urXRdrkOufPdOsFBnn_3Yud-TIVwfHldWJEE1urgVMX7DIEMUUi3bV4GG8W6OOkPsVrJMIsUauOZAsGOS_T7_OmaV-tCo1elZSFFNw7dYvPJ3k?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0059621,51.5315662,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dom parafialny 1</name>
+      <description><![CDATA[<img src="https://doc-04-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/5l8v2csdtt4teoruqg6uttk164/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kAXOFlBgT5AlV94z-Q5GWUZ2NB5MjvAU6OCq8NH3IkAGcllgS9l5fSgPWfj4ZRK9vI_lb1bYSswLqDrzOcqE4SMEAqvsNZM7JazZ9i2CNr4jSaHNUAyKDHyRqyKgWyNCx026Y4uqvMRwYxcvGTIUYjdAhstfeyJJs0impIZafZ2Prl9m-Rf89PCDsKajT9RQ?session=0&fife" height="200" width="auto" /><br><br>Dom parafialny na posesji przy ob. Placu T. Kościuszki 22 wzniesiono w 1829 r. ze składek miejscowych ewangelików. Jest on budynkiem na planie prostokąta, jednopiętrowym, z dachem krytym dachówką. Funkcję domu parafialnego pełnił do początków XX w.<br><br><img src="https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/19vues6vm2jgcs3u8kjerfothc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nb-TPIwLgZJpvX8q4UtNfi0EX49o411lvkBhFwM_-Ii2vYypP7u_oIprzXYY0_55VKMas6aQIa6LNHd4vLiYbR9ZTzzPTHl0apn91yxa_XEGsCHr1cpJC-137GUgh6Vyx_0qxgLwR8MNEDaTr5RmWfW1C933jKOcy56el5naKKlUzho4-2GXGm8r6KL3ZC_WU?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/5l8v2csdtt4teoruqg6uttk164/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kAXOFlBgT5AlV94z-Q5GWUZ2NB5MjvAU6OCq8NH3IkAGcllgS9l5fSgPWfj4ZRK9vI_lb1bYSswLqDrzOcqE4SMEAqvsNZM7JazZ9i2CNr4jSaHNUAyKDHyRqyKgWyNCx026Y4uqvMRwYxcvGTIUYjdAhstfeyJJs0impIZafZ2Prl9m-Rf89PCDsKajT9RQ?session=0&fife https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/19vues6vm2jgcs3u8kjerfothc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nb-TPIwLgZJpvX8q4UtNfi0EX49o411lvkBhFwM_-Ii2vYypP7u_oIprzXYY0_55VKMas6aQIa6LNHd4vLiYbR9ZTzzPTHl0apn91yxa_XEGsCHr1cpJC-137GUgh6Vyx_0qxgLwR8MNEDaTr5RmWfW1C933jKOcy56el5naKKlUzho4-2GXGm8r6KL3ZC_WU?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0062192,51.5315672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dom parafialny 2</name>
+      <description><![CDATA[<img src="https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/2v553dkt5dn3d9koiicl4hbs80/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mBHfGQ7IVVcEF1yTjvw54GUMHcx7MoycaJd_pKDCbFAGMkW0HfQHgh9k9C36hFod7z9Rm4Zyyc3grsYqpRgsZGkp3F3wHcQq0kCs5g1tS8rMUMZ6bGVjLxJV1x5XkWyZKa4exqVH9hGz_IAn76UdDWc3bvbtvARGbavx1EG2plXBGwK0oqezPWhjahbbv3dw?session=0&fife" height="200" width="auto" /><br><br>Budynek na posesji ob. Plac T. Kościuszki 20 wzniósł w latach 1826-1829 Ludwik Pawlikowski, kontroler fabryczny Tomaszowskich Zakładów Górniczo-Hutniczych, Był to jednopiętrowy, murowany budynek kryty dachówką. W 1859 r. Pawlikowski sprzedał go miastu. Pod koniec XIX w. stał się własnością parafii ewangelickiej i po odrestaurowaniu został przeznaczony na użytek szkoły ewangelickiej z mieszkaniem dla kantora i nauczyciela. Nadal stanowi własność parafii ewangelickiej.<br><br><img src="https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/f75906pgs0aeub8j8jh4m1f7v4/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kCO9DaRwxYim14I18SEh56c4m8aMzmuu3RgDsayhS7O-5HZT_TPWeRFQllVYORs2nQ4-QsaVRRcbrQmdrQ-6XPu0qaXceDcreqy1A6zZA9Ozxt8FI4E-rMSUXSH35jfWkfAlUoMwq9R46C3mbGhbsncvtl_nBRI1Ug2EfHOeN8TiSFIN4yqvKj6GVWDqvPPGw?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/2v553dkt5dn3d9koiicl4hbs80/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mBHfGQ7IVVcEF1yTjvw54GUMHcx7MoycaJd_pKDCbFAGMkW0HfQHgh9k9C36hFod7z9Rm4Zyyc3grsYqpRgsZGkp3F3wHcQq0kCs5g1tS8rMUMZ6bGVjLxJV1x5XkWyZKa4exqVH9hGz_IAn76UdDWc3bvbtvARGbavx1EG2plXBGwK0oqezPWhjahbbv3dw?session=0&fife https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/f75906pgs0aeub8j8jh4m1f7v4/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kCO9DaRwxYim14I18SEh56c4m8aMzmuu3RgDsayhS7O-5HZT_TPWeRFQllVYORs2nQ4-QsaVRRcbrQmdrQ-6XPu0qaXceDcreqy1A6zZA9Ozxt8FI4E-rMSUXSH35jfWkfAlUoMwq9R46C3mbGhbsncvtl_nBRI1Ug2EfHOeN8TiSFIN4yqvKj6GVWDqvPPGw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0056841,51.531538,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kościół pw. Zbawiciela</name>
+      <description><![CDATA[<img src="https://doc-0g-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/3o5ki21kdqev8glc9tc9l2jmkk/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lpBxTx-eH8YeDEDy-OjNS5EZrsiE6gnSNqsTrAYV58Onr3Zan4XZyVm2YVSwJSUkPgUgmBHHlS6Bf5ZDjjpZ_uFUuhSHed76xRJzUCpgsOtu-96pI5qbKIvbmO0u-cuUMLbo5-APcwnHlBJsYPMxCT9oLiLIFCU6IA-nGgrw_HrspmJivRlZJtp7KiZHuwJTg?session=0&fife" height="200" width="auto" /><br><br>Świątynie wzniesiono w latach 1897-1902 na posesji przy ul. św. Antoniego 39. Kościół zbudowany jest w stylu neogotyckim, trójnawowy, z wieżą o wysokości 60 m. Ciekawymi elementami wyposażenia są m.in. obraz Wojciecha Gersona, organy firmy braci Walter, witraże firmy H. Schlein w Zittau, dzwony odlane w Bohum w Westfalii, zegar braci Meister z Berlina. Świątynia jest użytkowana, w niedzielę i święta odprawiane są w niej nabożeństwa.<br><br><img src="https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/b6phs4g39ll97bg0mvfprn77e4/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kC3eP-yWg8fvEyQg83z1UNMc0Aa52qcnjqLnb_z9Ie7KGcqi2WeiHgcn9RYqwY2Gb8D8sb_Cm9RBc2hEKHuRc25MxiEDAn1qlvPVMUf83pnMwn-Ycj22JoOZLRrhFuZ-KVW7qk5w03eIfALXr69B8ztBpexBSfd19b34WaVPLB_A_CG6fcJL2yFy9mZXGbE2s?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0o-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/9r773dfmhtqdbhc71gtj9vcnnc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9l7NJT1av1kZJlYinjRojSpyaRI2VpBvSMqlrx9RqAHI5_8b6m2AKQq0upHhmqxN3uzVzYTaX6u40jPlznkS_EZ_NQFcVG6qDIe57-oXUv_zgOS53hXSPVwOEu1AYm2CN4j_kFT7TQOZNw-st9Lb3R5fWj_vjwjDxMvAYYRAB0umNv_u5xUoXD5go3IOkjs0xY?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/3o5ki21kdqev8glc9tc9l2jmkk/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lpBxTx-eH8YeDEDy-OjNS5EZrsiE6gnSNqsTrAYV58Onr3Zan4XZyVm2YVSwJSUkPgUgmBHHlS6Bf5ZDjjpZ_uFUuhSHed76xRJzUCpgsOtu-96pI5qbKIvbmO0u-cuUMLbo5-APcwnHlBJsYPMxCT9oLiLIFCU6IA-nGgrw_HrspmJivRlZJtp7KiZHuwJTg?session=0&fife https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/b6phs4g39ll97bg0mvfprn77e4/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kC3eP-yWg8fvEyQg83z1UNMc0Aa52qcnjqLnb_z9Ie7KGcqi2WeiHgcn9RYqwY2Gb8D8sb_Cm9RBc2hEKHuRc25MxiEDAn1qlvPVMUf83pnMwn-Ycj22JoOZLRrhFuZ-KVW7qk5w03eIfALXr69B8ztBpexBSfd19b34WaVPLB_A_CG6fcJL2yFy9mZXGbE2s?session=0&fife https://doc-0o-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/9r773dfmhtqdbhc71gtj9vcnnc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9l7NJT1av1kZJlYinjRojSpyaRI2VpBvSMqlrx9RqAHI5_8b6m2AKQq0upHhmqxN3uzVzYTaX6u40jPlznkS_EZ_NQFcVG6qDIe57-oXUv_zgOS53hXSPVwOEu1AYm2CN4j_kFT7TQOZNw-st9Lb3R5fWj_vjwjDxMvAYYRAB0umNv_u5xUoXD5go3IOkjs0xY?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0134397,51.5275238,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dom parafialny</name>
+      <description><![CDATA[<img src="https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/ihfufsco1v80mdfpbjsp65t5k0/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9n2uKfBhToLI2v-sQqGn5HXkvMXap6_qpEvKEMSth_aZWU4Y5_lLAIdYdMoCRjHkg-bUmv7iJay70Ho10avIM7VCog0DizCt6Z5XhpEhUV9FnormAY6Bybjo6L1bFp9IZopBDYlwXpUr9DxuDNjxxx52vSNx1Vng-9w-_o04o-mvodkVRQUYGB6gHEdUd9BGE4?session=0&fife" height="200" width="auto" /><br><br>Przy kościele wzniesiono też dom parafialny w 1902 r.<br><br><img src="https://doc-0c-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/lkmpv6cmrqbtt6s2m4e1esi1l4/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mZGeg4LYo9weoPFpv9f_9vK4Mbuv-LT129BrFknHecC12sP9J9oqdLtAiWl15myqm4cG3Rc5isuTZrZrNdMX33aODLdDXkxXxgB0I6A0k0YdgaK_wD1sqni-6orj0DdZ63earqNqHqW5C0NZobE4K_1Ni2lgZwP-qnH-mOl0sYAR6AQ3TlM6mO9K2Ye32rRpc?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/ihfufsco1v80mdfpbjsp65t5k0/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9n2uKfBhToLI2v-sQqGn5HXkvMXap6_qpEvKEMSth_aZWU4Y5_lLAIdYdMoCRjHkg-bUmv7iJay70Ho10avIM7VCog0DizCt6Z5XhpEhUV9FnormAY6Bybjo6L1bFp9IZopBDYlwXpUr9DxuDNjxxx52vSNx1Vng-9w-_o04o-mvodkVRQUYGB6gHEdUd9BGE4?session=0&fife https://doc-0c-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/lkmpv6cmrqbtt6s2m4e1esi1l4/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mZGeg4LYo9weoPFpv9f_9vK4Mbuv-LT129BrFknHecC12sP9J9oqdLtAiWl15myqm4cG3Rc5isuTZrZrNdMX33aODLdDXkxXxgB0I6A0k0YdgaK_wD1sqni-6orj0DdZ63earqNqHqW5C0NZobE4K_1Ni2lgZwP-qnH-mOl0sYAR6AQ3TlM6mO9K2Ye32rRpc?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0131482,51.5275835,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dąb Marcina Lutra</name>
+      <description><![CDATA[<img src="https://doc-04-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/111itdvvrcamq1rhiuauvoc3us/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mRd2zlHTh-iVhEbYXwKKfn6n0-Q3Qm8lYVPVNPrMqpdWB4LeJBHNzF-8xwM9FjLBTxkprtM50Omvgn1PkefTArSZHDhck8B3ekG4rsB927BKhXR9vTxg0LFPNXUsIdg2CJ1ec3tMLpP_YB8NXWBGIWX7Sb3zxBdsm5jFVIhy8zD00zYTrLGaKQNLkps1DhEvQ?session=0&fife" height="200" width="auto" /><br><br>Przy kościele znajduje się posadzony w dniu 31 października 1917 r. dąb Marcina Lutra<br><br><img src="https://doc-08-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/2fsm9eca0dnptrr08k65absop0/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lYnHe_V_y6YAukXAy82MuJqhBglCZHbj0uxYoYVDP4mkc8soC3a3oycYiOBK8v9plKFMNU_xKyrPKkiocloct5zBzPMM9x6K968bnMnwD2FLbZqfCmMXCn58X9PAVpw4crdvN4-mmTBOHzxiULPw61LORCX9lD4EsSoZq3tVIj89uyoiNLvZU1g0UFCeAX720?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/111itdvvrcamq1rhiuauvoc3us/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mRd2zlHTh-iVhEbYXwKKfn6n0-Q3Qm8lYVPVNPrMqpdWB4LeJBHNzF-8xwM9FjLBTxkprtM50Omvgn1PkefTArSZHDhck8B3ekG4rsB927BKhXR9vTxg0LFPNXUsIdg2CJ1ec3tMLpP_YB8NXWBGIWX7Sb3zxBdsm5jFVIhy8zD00zYTrLGaKQNLkps1DhEvQ?session=0&fife https://doc-08-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/2fsm9eca0dnptrr08k65absop0/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lYnHe_V_y6YAukXAy82MuJqhBglCZHbj0uxYoYVDP4mkc8soC3a3oycYiOBK8v9plKFMNU_xKyrPKkiocloct5zBzPMM9x6K968bnMnwD2FLbZqfCmMXCn58X9PAVpw4crdvN4-mmTBOHzxiULPw61LORCX9lD4EsSoZq3tVIj89uyoiNLvZU1g0UFCeAX720?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.013116,51.5274367,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cmentarz ewangelicki</name>
+      <description><![CDATA[<img src="https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/r9siiuja917ouarvjtn8d2eg4c/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9m4oVp8Sz7_IWPlE4rH7SztK-OUMfs2u0_9WmTBPia1MRBw2qE7IDokgFvWNBgDjPL193lkfRV2TDfF7caNqt2QpSmQ-HqhoSpVeDU_9c1iu7OEZcqWjcLuFr-xUVhBn8sVIVT_WEsnQwMVPAXol94Brtyt4_7HDUfiNLrT__ha-Xv7cZdaUFIihJrOiQbxDBM?session=0&fife" height="200" width="auto" /><br><br>Założono go w 1827 r. w lesie wsi Lipianki należącym do folwarku Tomaszówek. Obecnie mieści się na terenie miasta, przy ul. Smutnej. W 1866 r. teren cmentarza był ogrodzony ceglanym murem, prowadziła do niego brama od ul. Smutnej. Obszar cmentarza obejmuje obecnie ok. 3 tys. m2. Najstarszy, zachowany nagrobek pochodzi z 1827 r.<br><br><img src="https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/2dam9vl6c5db85avbatk3q9lqo/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kvFWnB8r6YanrQHV2VuKwTRdCLLed562CubjlC-6_NPtCiKfltOSELIoBHFuv16DOPh769AgA1QbZlmj_nQWRsiwfepShqWvJn5RoiNfyVPNYpW_fIKxWobuI3BRlJKc4om3qayPsNTUzMgbWiZbfPQqL9dNsA8YVSJaoO3MdU-8pCdShejLpqhHL2AR8eGbg?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/jipu56mmqa8lqvjauke5t71us8/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kFuQ5gr5OtSBEw2_xGe80XjX6bJR4Xync9R2UsC9koaOm5b1eBayjeVcOvBuQF1kDp0t14PAXAeq2ZVH8xuudm8eHQDcXmfQ2Gvo0LOlp-voThwmMnTpnNq9lcc5swphQdPU5G6-G1Up40dIPBeTxVVYRtHaEmJHu0cNzWPpOkhQtWYqpNdwtt4U07EOcdsQA?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/r9siiuja917ouarvjtn8d2eg4c/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9m4oVp8Sz7_IWPlE4rH7SztK-OUMfs2u0_9WmTBPia1MRBw2qE7IDokgFvWNBgDjPL193lkfRV2TDfF7caNqt2QpSmQ-HqhoSpVeDU_9c1iu7OEZcqWjcLuFr-xUVhBn8sVIVT_WEsnQwMVPAXol94Brtyt4_7HDUfiNLrT__ha-Xv7cZdaUFIihJrOiQbxDBM?session=0&fife https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/2dam9vl6c5db85avbatk3q9lqo/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kvFWnB8r6YanrQHV2VuKwTRdCLLed562CubjlC-6_NPtCiKfltOSELIoBHFuv16DOPh769AgA1QbZlmj_nQWRsiwfepShqWvJn5RoiNfyVPNYpW_fIKxWobuI3BRlJKc4om3qayPsNTUzMgbWiZbfPQqL9dNsA8YVSJaoO3MdU-8pCdShejLpqhHL2AR8eGbg?session=0&fife https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/jipu56mmqa8lqvjauke5t71us8/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kFuQ5gr5OtSBEw2_xGe80XjX6bJR4Xync9R2UsC9koaOm5b1eBayjeVcOvBuQF1kDp0t14PAXAeq2ZVH8xuudm8eHQDcXmfQ2Gvo0LOlp-voThwmMnTpnNq9lcc5swphQdPU5G6-G1Up40dIPBeTxVVYRtHaEmJHu0cNzWPpOkhQtWYqpNdwtt4U07EOcdsQA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0191856,51.5423672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cerkiew pw. Mikołaja Cudotwórcy</name>
+      <description><![CDATA[<img src="https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/vtgarf24h1b1gir9l3ogq4s8ks/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nhmdacJ6x49LyrS7TrP_52zz0jXyxrxjQfmX4M-R1C3QCwl2F-5uZYHcFgX7ofbvfeIyc6YfeiNbquZJIwqJFHyJwTvdgD2Y3ghVucA30lSaa-iHHl2Ze680ntRBFmgcKKWEm0PqiX16pGfuaVZKkGbtxAJ9X6a8EHkNfreeEA29qRcUh8iHUM2OOac0zdHg?session=0&fife" height="200" width="auto" /><br><br>Wzniesiona została w 1901 r. na środku ob. Placu T. Kościuszki. Położenie kamienia węgielnego pod budowę świątyni odbyło się 12 grudnia 1899 r. w 5 rocznicę objęcia tronu przez cara Mikołaja II. Autorem projektu był Władimir Nikołajewicz Pokrowski, ówczesny architekt Diecezji Chełmińsko-Warszawskiej. Cerkiew zbudowana była w stylu tzw. moskiewsko-jarosławskim na planie krzyża greckiego z dwoma ośmiokątnymi wieżami przykrytymi kopułami w stylu bizantyjskim. Główne wejście prowadziło od strony zachodniej. od wschodu zamykała ją niewielka absyda. W dniu 20.10.1901 r. odbyło się uroczyste poświęcenie świątyni. Wziął w nim udział car Mikołaj II wraz z małżonką Aleksandrą Fiodorowną i carewiczem Aleksym. W 1925 r. opuszczona już wówczas cerkiew została rozebrana, a materiał z niej posłużył do wzniesienia ratusza i szkoły powszechnej przy ul. Nowowiejskiej.<br><br><img src="https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/447nlpdq82cikpp50kcgqda6dc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mo9kgzz_6ppg9tvMmXintMRclOWC8MJypk49wtYigEh_yWnh08tgydPmsfcfn1Q4YMKDiEHEq9VdWBnYM3VRM4sXUjqQBJKwuYS3JV2Da8eIT2Ngv9J8Qe6V9sabFwaZsENCYBX4LLVuDpQiGKn82c37uvvNKh-c9ONYJj8_aUe1xD68ELjY_b-4RCyg4xxA?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0g-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/q5tjvq3g1266idgh40bl48j994/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9l0I9aL-8sCtZ0bGwy9eoQsfnm7IzBr0j0g6pqrRNzMvt_rc39WMINnaPr1yLmVODBUu24DlZoDAFJfQ2Sc8f281bj_eeSOzyYhFw4NLhGN1X4-ZZDaioX2X8RxKjgCpYO_J5q-RqrwQgcvEpKD4ALnEljbwy-GLT05P1zSfAvuO_9qS8_mTuXN5g6iiql68w?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/vtgarf24h1b1gir9l3ogq4s8ks/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nhmdacJ6x49LyrS7TrP_52zz0jXyxrxjQfmX4M-R1C3QCwl2F-5uZYHcFgX7ofbvfeIyc6YfeiNbquZJIwqJFHyJwTvdgD2Y3ghVucA30lSaa-iHHl2Ze680ntRBFmgcKKWEm0PqiX16pGfuaVZKkGbtxAJ9X6a8EHkNfreeEA29qRcUh8iHUM2OOac0zdHg?session=0&fife https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/447nlpdq82cikpp50kcgqda6dc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mo9kgzz_6ppg9tvMmXintMRclOWC8MJypk49wtYigEh_yWnh08tgydPmsfcfn1Q4YMKDiEHEq9VdWBnYM3VRM4sXUjqQBJKwuYS3JV2Da8eIT2Ngv9J8Qe6V9sabFwaZsENCYBX4LLVuDpQiGKn82c37uvvNKh-c9ONYJj8_aUe1xD68ELjY_b-4RCyg4xxA?session=0&fife https://doc-0g-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/q5tjvq3g1266idgh40bl48j994/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9l0I9aL-8sCtZ0bGwy9eoQsfnm7IzBr0j0g6pqrRNzMvt_rc39WMINnaPr1yLmVODBUu24DlZoDAFJfQ2Sc8f281bj_eeSOzyYhFw4NLhGN1X4-ZZDaioX2X8RxKjgCpYO_J5q-RqrwQgcvEpKD4ALnEljbwy-GLT05P1zSfAvuO_9qS8_mTuXN5g6iiql68w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0060164,51.5311991,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Memoriał ku czci żołnierzy Armii Czerwonej</name>
+      <description><![CDATA[<img src="https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/pu3c9ht40074t350rudlo66tqs/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nJJlLDQarF5wOw7Tt3JlxmpDLy5D9bmpTU51fBejLEH3pR4V31_GfzzS57Bt4Rmn8WawwWEzG0tcqNcwnH0s0mTId5_7xF3UcUmnBTclEC4hUMuE18vm8csYsDKiPZTmlEfkDJinlXlaGJShATKljW7IMUuLvtKtoeJuGf4ufdhL7treSX-PAiwlL7TVO4pBQ?session=0&fife" height="200" width="auto" /><br><br>Wzniesiono go w 1945 r. w centralnym punkcie Placu T. Kościuszki. Składał się z 16-metrowego obelisku zwieńczonego gwiazdą z sierpem i młotem, cmentarza poległych w styczniu 1945 r. żołnierzy Armii Czerwonej oraz 2 fontann i zieleńców. Został rozebrany na początku lat 90. XX w.<br><br><img src="https://doc-0o-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/8de5iuegf5q6iphkp524844hv8/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lJ5YRpSrUYnWZLPl55G75iMiD78ksunHzHG3PFUW08NSO9166_33xdzlJh2tBhsts6R6X-UcEthur-BvgqzUSzZzybq-zALle8SXCjxVbiqZvfT-jSj5co0lKcrpLCGsy2irfS6C8V22ZMBPDCvFnLuqLsdkumINCJ764GENn9WVz8N5W0fwA4CE3imqTg_w?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/m6ua76idj0haj2raofn6d8pmbo/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9k_bsYmYCchrPCAZtUHshbn-5mRM_M4lcTXBdW6c0i5hxUU_wR7WsZUBx2TsHmENHy07J9xW3v5aeHQ_CNVpKpGYdh_cLqKWFheBe-mkVwYAEK046JR3ncod65ETtbl_pY3aBhoAGaV0KfSo_0Td3EoHTI8P6-vXDLsSW1Mu4SMuwCqxBVjWGZ62zpfFt1nbqQ?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/pu3c9ht40074t350rudlo66tqs/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nJJlLDQarF5wOw7Tt3JlxmpDLy5D9bmpTU51fBejLEH3pR4V31_GfzzS57Bt4Rmn8WawwWEzG0tcqNcwnH0s0mTId5_7xF3UcUmnBTclEC4hUMuE18vm8csYsDKiPZTmlEfkDJinlXlaGJShATKljW7IMUuLvtKtoeJuGf4ufdhL7treSX-PAiwlL7TVO4pBQ?session=0&fife https://doc-0o-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/8de5iuegf5q6iphkp524844hv8/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lJ5YRpSrUYnWZLPl55G75iMiD78ksunHzHG3PFUW08NSO9166_33xdzlJh2tBhsts6R6X-UcEthur-BvgqzUSzZzybq-zALle8SXCjxVbiqZvfT-jSj5co0lKcrpLCGsy2irfS6C8V22ZMBPDCvFnLuqLsdkumINCJ764GENn9WVz8N5W0fwA4CE3imqTg_w?session=0&fife https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/m6ua76idj0haj2raofn6d8pmbo/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9k_bsYmYCchrPCAZtUHshbn-5mRM_M4lcTXBdW6c0i5hxUU_wR7WsZUBx2TsHmENHy07J9xW3v5aeHQ_CNVpKpGYdh_cLqKWFheBe-mkVwYAEK046JR3ncod65ETtbl_pY3aBhoAGaV0KfSo_0Td3EoHTI8P6-vXDLsSW1Mu4SMuwCqxBVjWGZ62zpfFt1nbqQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0062095,51.5311265,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cmentarz prawosławny</name>
+      <description><![CDATA[<img src="https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/3u5mi2d4e1e4attp8spc6jq39o/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mzn7aQIVR_osM8p_1uDLell8XT0D8WEAFhRcuHS1sTno6sGhaD4eKTKiSKHxhnW1NSQHXg0nOCUrz6CpiAHz209XV-5t3OnddRvNy_E0wFwWth8TZHE_xMVGJNU4vUP6zQvnrzel_A66wRGvzhIo8i3uXsn147iRKK2m2diw1QTHc9_j5txxANCmFmnDqYVLQ?session=0&fife" height="200" width="auto" /><br><br>Jeszcze w latach 30. XIX w. wydzielono na cmentarzu ewangelickim przy ul. Smutnej kwatery dla pochówków prawosławnych. <br>Sam cmentarz, zlokalizowany na działce wydzielonej z cmentarza ewangelickiego, założono w 1898 r. Do 1910 r. urządzono jego teren i ogrodzono go. Obecnie na cmentarzu znajdują się prawie wyłącznie współczesne nagrobki. <br>Na cmentarzu tym znajdują się groby żołnierzy Armii Czerwonej poległych podczas walk o Tomaszów w styczniu 1945 r., ekshumowane z Placu T. Kościuszki w 1949 i 2014 r.<br><br><img src="https://doc-0c-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/q1f0nm0hnhdhlk7u59eqbcdft0/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mNrPu_NDOPXf_TSqh_y1BRHrgl3G69zl6lJehiCbIIy_vmJpFHDJiVv0_JizqPykCQ6PigvxoylhzqjS-e5ENPO6FMebASt-JGc7A_QL_QNzghcFHBkcym_SwNijL7lv2LT0IowLRgv6WtPzSxwtWB_3YsrTZCbTTygWDRIaXzb4Oi6g_WyZ3KhuTChmyLLX4?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-14-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/a2cancr9piau6ln2k0t424caok/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nqQDRUKTPs1KbZjkz7bRPgTUcdANf047aSUfIfCCttOO5lErByDFbnOKCw_VfVy-P3Kt_oP7gaac0z0BW19dwjcZ02os8nYIzgX03H4THjbU3i6r9sZHsavrKIyX_DxIEPNqSrOLzCF5shyqY1B041dEsWFxCiTK3Y84T-okEmYYYNcAsZdHl9nKlht1404RE?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/3u5mi2d4e1e4attp8spc6jq39o/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mzn7aQIVR_osM8p_1uDLell8XT0D8WEAFhRcuHS1sTno6sGhaD4eKTKiSKHxhnW1NSQHXg0nOCUrz6CpiAHz209XV-5t3OnddRvNy_E0wFwWth8TZHE_xMVGJNU4vUP6zQvnrzel_A66wRGvzhIo8i3uXsn147iRKK2m2diw1QTHc9_j5txxANCmFmnDqYVLQ?session=0&fife https://doc-0c-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/q1f0nm0hnhdhlk7u59eqbcdft0/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mNrPu_NDOPXf_TSqh_y1BRHrgl3G69zl6lJehiCbIIy_vmJpFHDJiVv0_JizqPykCQ6PigvxoylhzqjS-e5ENPO6FMebASt-JGc7A_QL_QNzghcFHBkcym_SwNijL7lv2LT0IowLRgv6WtPzSxwtWB_3YsrTZCbTTygWDRIaXzb4Oi6g_WyZ3KhuTChmyLLX4?session=0&fife https://doc-14-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/a2cancr9piau6ln2k0t424caok/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nqQDRUKTPs1KbZjkz7bRPgTUcdANf047aSUfIfCCttOO5lErByDFbnOKCw_VfVy-P3Kt_oP7gaac0z0BW19dwjcZ02os8nYIzgX03H4THjbU3i6r9sZHsavrKIyX_DxIEPNqSrOLzCF5shyqY1B041dEsWFxCiTK3Y84T-okEmYYYNcAsZdHl9nKlht1404RE?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          20.0178728,51.5435742,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

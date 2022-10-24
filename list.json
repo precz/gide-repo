@@ -1,27 +1,39 @@
 {
-    "version": {
-        "file": "1.0.1",
-        "repo": "1.1.0"
+  "version": {
+    "file": "1.0.1",
+    "repo": "1.1.0"
+  },
+  "local": [
+    {
+      "id": "dzieci-balut",
+      "name": {
+        "pl": "Dzieci Bałut",
+        "en": "Children of Bałuty"
+      },
+      "path": "/dziecibalut",
+      "description": {
+        "pl": "Murale pamięci poświęcone łódzkim dzieciom z okresu wojny.",
+        "en": "Murals dedicated to the memory of the Lodz children during the war."
+      },
+      "repo-type": "APP_DATA_JSON",
+      "icon": "",
+      "image": "",
+      "coordinates": [51.788953, 19.454477]
     },
-    "local": [
-        {
-            "id": "dzieci-balut",
-            "name": {
-                "pl": "Dzieci Bałut",
-                "en": "Children of Bałuty"
-            },
-            "path": "/dziecibalut",
-            "description": {
-                "pl": "Murale pamięci poświęcone łódzkim dzieciom z okresu wojny.",
-                "en": "Murals dedicated to the memory of the Lodz children during the war."
-            },
-            "repo-type": "APP_DATA_JSON",
-            "icon": "",
-            "image": "",
-            "coordinates": [
-                51.788953, 19.454477
-            ]
-        }
-    ],
-    "external-repo": []
+    {
+      "id": "etno-re-witalizacje-tomaszow-mazowiecki",
+      "name": {
+        "pl": "ETNO re:WITALIZACJE 2.0 Tomaszów Mazowiecki"
+      },
+      "path": "/etno/tomaszowMazowiecki",
+      "description": {
+        "pl":"ETNO re:WITALIZACJE 2.0 Tomaszów Mazowiecki"
+      },
+      "repo-type": "GOOGLE_LAYER_KML",
+      "icon": "",
+      "image": "",
+      "coordinates": [51.531203, 20.011248]
+    }
+  ],
+  "external-repo": []
 }
