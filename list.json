@@ -1,7 +1,7 @@
 {
   "version": {
     "fileFormat": "1.1.0",
-    "repo": "1.1.0"
+    "repo": "1.2.0"
   },
   "local": [
     {
@@ -27,11 +27,11 @@
       },
       "path": "/etno/tomaszowMazowiecki",
       "description": {
-        "pl":"ETNO re:WITALIZACJE 2.0 Tomaszów Mazowiecki"
+        "pl":"Działalności Stowarzyszenia „Na co dzień i od święta” polegają na pobudzaniu działań twórczych, upowszechnianiu i ochronie kultury przy wykorzystaniu innowacyjnych metod. Działania te polegają na: rozpoznawaniu, rozbudzaniu i zaspakajaniu współczesnych potrzeb artystycznych oraz zainteresowań kulturalnych mieszkańców Łodzi i województwa łódzkiego poprzez organizację nowatorskich wydarzeń kulturalnych oraz interdyscyplinarnych akcji edukacyjno-artystycznych z wykorzystaniem działań interaktywnych. Organizacja wspiera młodych twórczych ludzi, dając im możliwość udziału w projektach, których przedmiotem jest edukacja kulturalna i artystyczna. W tych działaniach uczestnicy nabywają nowych umiejętności, zdobywają doświadczenie, nie tylko w bezpośrednich kontaktach z publicznością, ale także z przedstawicielami urzędów, instytucji i biznesu. Te zdolności obecnie stanowią bardzo ważny element ścieżki sukcesu i doskonałe podstawy do budowania kariery po zakończeniu edukacji w życiu zawodowym."
       },
       "repo-type": "GOOGLE_LAYER_KML",
-      "icon": "",
-      "image": "https://doc-08-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/63rj8ogpudeib1818iaub509uc/1666796579500/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lbliX2S2dJ1a9eUwCSA3dBW02vUkyJIGBfW4EEjo49QEU_oaGI-S5tX9xF_J4ILEh5nlR5_fQwMDtYvBk2PmknYsC4w06eqeeq8ZI6xH-vjG9ETyCe54v-Nilp1gRoyG36J8jZe50Zp0GyICMtqinVCg428W6UlJIwJ0kmlFe1mWmOXDzhNO853up0ZtVVm_Q?fife+https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/bm7a12b4eiuhvfjgefug1hu1f8/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lGJf2nTLDhN5TittbhD7hqgy_d2ixs3OtQZNJCcWQozZmDetEW9HtV-djnO9w7xOHxLGCJotL8WgRd8o0KSLuLPxvgtOZiceffpiI7Po1jVRnivgDorZyUTYRu-AZ8OcDXoKJ78xSPFq91IAGDsQv5U0Bq6L7GDMDc9PGxLDnu4oaYuOFRKoPFYMdkQWL1wQU?session=0&fife+https://doc-14-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/nha7pdbkf5d6ged674pjm2e6hc/1666638782250/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9m6rg9Dxjl8jcj0hD6nlE9x3J6JFP5av-LiMhQJSKJ_H9LQZi8MfiE8c5x8s2WZos0xw9W60O-NZgxdB9Ig0CIxHRPTeVb3-e5uMVTNgJ0UqNb7DA9psOo25kvx1dxle5lUUSfMtnHTQJmj3IB4k3jmKmwz1b_HZOtQp1EGGZVU0h8ylv8y_NvjQveTs17io3I?session=0&fife?w=248",
+      "icon": "http://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
+      "image": "http://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/author.jpg",
       "coordinates": [51.531203, 20.011248]
     }
   ],
