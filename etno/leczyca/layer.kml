@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Miejsca</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Cerkiew św. Mikołaja Cudotwórcy </name>
+      <description><![CDATA[<img src="https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/3i1moosn19drkojq4o05k5m418/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nucyFMVBsnYaR0ctP0XbzCpvk9UqogZnpWgrXryhckGR4TJ-0yABflr0BjMfve6jDczzzTaefDPq6Vv2v4p4iUbHyPRdmYqv1fI3H7j12BmBkP9K87zFwH-fRX7pr7pj_FvNAkCGsTPWc7yaouxfGVqOm6R9Nue-ysGRUpwI-59UWY-izgEoD12r3ALbNkQQ?session=0&fife" height="200" width="auto" /><br><br>Świątynię wzniesiono na terenie koszar wojskowych w 1913 r. (obecnie u zbiegu ulic Kaliskiej i Szkolnej). Była ona budynkiem murowanym na planie krzyża greckiego, nakrytym dachem z kopułą. Druga kopuła wieńczyła kruchtę (wejście) z dzwonnicą. Po wojnie, w 1918 r. budynek cerkwi przeznaczono na magazyn miejski. W latach 1935-1936 świątynię rozebrano, a materiał z jej rozbiórki przeznaczono na dokończenie budowy łaźni miejskiej.<br><br><img src="https://doc-14-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/8cnm39d7tb6c1cc5133bo37b48/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9ljffiMwEe_0S_Acigw6haH54aIr9_BeE3zTL6vpwQ93KkrdoZOgI--dO1e7B5ojLv5Ur3frL2rHYR5S5dnvD3c14mjd5NQVM4YPl8hGwtteX9HwXZ9sZL7vSC04QIhu6tBq2Lw1NNgGserjfsRaqtSWPLix8RShhVrTMXdmidIh08j6bfbjWHajSv0ucpTpN0?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/3i1moosn19drkojq4o05k5m418/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nucyFMVBsnYaR0ctP0XbzCpvk9UqogZnpWgrXryhckGR4TJ-0yABflr0BjMfve6jDczzzTaefDPq6Vv2v4p4iUbHyPRdmYqv1fI3H7j12BmBkP9K87zFwH-fRX7pr7pj_FvNAkCGsTPWc7yaouxfGVqOm6R9Nue-ysGRUpwI-59UWY-izgEoD12r3ALbNkQQ?session=0&fife https://doc-14-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/8cnm39d7tb6c1cc5133bo37b48/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9ljffiMwEe_0S_Acigw6haH54aIr9_BeE3zTL6vpwQ93KkrdoZOgI--dO1e7B5ojLv5Ur3frL2rHYR5S5dnvD3c14mjd5NQVM4YPl8hGwtteX9HwXZ9sZL7vSC04QIhu6tBq2Lw1NNgGserjfsRaqtSWPLix8RShhVrTMXdmidIh08j6bfbjWHajSv0ucpTpN0?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.1971025,52.0587984,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cmentarz prawosławny</name>
+      <description><![CDATA[<img src="https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/3hj30fuolfrqmm7hvkqbv49hvk/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nRfFp4XtNCdCBgZcN3ewhF5-i1XdPHu1vt9w5GkpUquA_55OtFPmq2NsYMoBcOaagDx-KFqewbAchxyGNN0KeTh8WupgrTzVjjP_tPN5KPrz1eEDgS6jIwRnqgGJDQtTZQK14Wj8MJ4nAbdfU6HIKPZJe8zJ5ipxcv_vQfRXI5sXLEZO_JPXaDrcSPyzm-cRw?session=0&fife" height="200" width="auto" /><br><br>Część prawosławną wydzielono po 1830 r. na cmentarzu rzymskokatolickim (przy ulicach Kaliskiej i Wojska Polskiego). Do czasów obecnych zachowało się kilka nagrobków w południowej części cmentarza, zgromadzonych jako lapidarium.<br><br><img src="https://doc-0g-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/dlt6t5jjlu6q5etu3f4kjsc5l8/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nGZnWFOJdI8yaegiTuk3o-3Ur_8tLDxbSGEMlC-ET7BnmQCdLTsDyisl8VCrBQwSThKv3UhT6AB7FjX5xRnQYU0qGMLvkxKgXeOfoFQqSFdW2e4DidxNmyjb8OaaHdvrsJFCbfVSx3KnXOW1CjxMagw3Toe_XRPKO5c9sTBBeVP_9KRtH4pwPOb0hiQY9B5Jg?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/3hj30fuolfrqmm7hvkqbv49hvk/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nRfFp4XtNCdCBgZcN3ewhF5-i1XdPHu1vt9w5GkpUquA_55OtFPmq2NsYMoBcOaagDx-KFqewbAchxyGNN0KeTh8WupgrTzVjjP_tPN5KPrz1eEDgS6jIwRnqgGJDQtTZQK14Wj8MJ4nAbdfU6HIKPZJe8zJ5ipxcv_vQfRXI5sXLEZO_JPXaDrcSPyzm-cRw?session=0&fife https://doc-0g-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/dlt6t5jjlu6q5etu3f4kjsc5l8/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nGZnWFOJdI8yaegiTuk3o-3Ur_8tLDxbSGEMlC-ET7BnmQCdLTsDyisl8VCrBQwSThKv3UhT6AB7FjX5xRnQYU0qGMLvkxKgXeOfoFQqSFdW2e4DidxNmyjb8OaaHdvrsJFCbfVSx3KnXOW1CjxMagw3Toe_XRPKO5c9sTBBeVP_9KRtH4pwPOb0hiQY9B5Jg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.18895,52.0558974,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dzielnica żydowska </name>
+      <description><![CDATA[<img src="https://doc-04-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/onsmistsvtah00a1l6as311is0/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mcT2Pz4RoitqxYh4xYoj6n5FAuN1Y44wymDjEr7ZtqnsgIPMI2M6e7-0vYq3Dq-StpUq-BKC5RWcEoTmYEK4dAS_6bxoXehHdHCaSylxafD4peE_RGsoF4N8W7Jwg5W2QbBgFLVdledBocNQ3HliK4iYwtGVtr0iL7pzk276ZZIv0QrMuHMY617KxaMs9Orbw?session=0&fife" height="200" width="auto" /><br><br>obręb ulic: Kaliskiej, Żydowskiej, Poznańskiej, Szpitalnej (wówczas Koszernej) <br>Początkowo, od połowy XV w. pierwsi Żydzi zaczęli osiedlać się w zachodniej części miasta, w sąsiedztwie murów miejskich i biegnącej równolegle do nich ul. Żydowskiej, która stanowiła centrum dzielnicy żydowskiej. Już w XVI w. w obrębie dzielnicy istniała drewniana synagoga oraz szkoła. Dzielnica żydowska oraz synagoga zostały spalone w 1656 r. podczas oblężenia Łęczycy przez wojska Stefana Czarnieckiego. Odbudowano zarówno świątynię jak i domy mieszkalne. W 2 poł. XVIII w. dzielnica żydowska uległa poszerzeniu - Żydzi zajęli część obecnej ulicy Kaliskiej w kierunku rynku oraz tereny na północ od ul. Żydowskiej w kierunku Bramy Toruńskiej.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/onsmistsvtah00a1l6as311is0/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mcT2Pz4RoitqxYh4xYoj6n5FAuN1Y44wymDjEr7ZtqnsgIPMI2M6e7-0vYq3Dq-StpUq-BKC5RWcEoTmYEK4dAS_6bxoXehHdHCaSylxafD4peE_RGsoF4N8W7Jwg5W2QbBgFLVdledBocNQ3HliK4iYwtGVtr0iL7pzk276ZZIv0QrMuHMY617KxaMs9Orbw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.2004591,52.0601872,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wielka Synagoga</name>
+      <description><![CDATA[<img src="https://doc-08-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/80o0dkpmt055jtl8fqf701lhig/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nxjmhj4K-hhg5hmOskqWq9q-bSnh7jq1TJpqm2l0Vses1eyc-R-yhTjnN3_z0kxo14RUZ1wNME3bC9_lbW_RWX4ViFOiSvMcrvVpOH34ow7rhUiEzKuTsk1kB_0wgvx3LNjOj23hRIQdn1Z8gXVhs9s-r0PY3rxiPtCLs-IOi6l8AOTcCQo4tgO_NwbM4d2A?session=0&fife" height="200" width="auto" /><br><br>Znajdowała się na skwerze u zbiegu ulic Kaliskiej i al. Jana Pawła II. Prace przy Wielkiej Synagodze ukończone zostały w 1786 r. a budowniczym był Szmerka Józefowicz. <br>Bożnica była budynkiem murowanym, na planie prostokąta. Jedną z jej ścian stanowił fragment dawnych murów miejskich. Wokół budynku synagogi funkcjonowały prywatne domy modlitwy, mykwa (łaźnia żydowska), dom kahalny (budynek gminy żydowskiej), cheder (szkoła żydowska dla chłopców) oraz szkoła dla dziewczynek. <br>Synagogę podpalili Niemcy w lutym 1940 r., a jej pozostałości kazali Żydom rozebrać.<br><br><img src="https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/p4ris8lqo8auc9v2bk4ommog68/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kncIc6QzheLNnY4sYAgoKztB2bukURsdGF3B65SZGtkP8Lh3Xexvn_AioZaubhhsN_4PqG9ZVyy1muo0nJzd92qqornzH7KWLKpGq2t5uerwXggH30x8bDl73F7xDZCoLznduC6gnF18o6yXP7pmih3ZzoFb1XXxSx6fynr-5-VsKS6sEyEuooNugWbTPWWyM?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/80o0dkpmt055jtl8fqf701lhig/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nxjmhj4K-hhg5hmOskqWq9q-bSnh7jq1TJpqm2l0Vses1eyc-R-yhTjnN3_z0kxo14RUZ1wNME3bC9_lbW_RWX4ViFOiSvMcrvVpOH34ow7rhUiEzKuTsk1kB_0wgvx3LNjOj23hRIQdn1Z8gXVhs9s-r0PY3rxiPtCLs-IOi6l8AOTcCQo4tgO_NwbM4d2A?session=0&fife https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/p4ris8lqo8auc9v2bk4ommog68/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kncIc6QzheLNnY4sYAgoKztB2bukURsdGF3B65SZGtkP8Lh3Xexvn_AioZaubhhsN_4PqG9ZVyy1muo0nJzd92qqornzH7KWLKpGq2t5uerwXggH30x8bDl73F7xDZCoLznduC6gnF18o6yXP7pmih3ZzoFb1XXxSx6fynr-5-VsKS6sEyEuooNugWbTPWWyM?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.1988714,52.0595292,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mała Synagoga</name>
+      <description><![CDATA[<img src="https://doc-0k-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/5maa611pdoirstr8tpg0cifb5s/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mLIBWGQO3YKQdK1jg3Q_zyMSPPJmhRUYK6nQ46YxTph4oQhhUYy83ZS0qmAU4BwZHao7DkbPCp0lO8C8ezrRyRleX-FfG-GBEY9odEO9yYCczXs1urercXM2M1w8cw03n-RLXpq23-Eck-luABjCQA0Z_LAurTbik1KNmlWYzfSTzUns-U6PC4fUMwa5dunEg?session=0&fife" height="200" width="auto" /><br><br>Wzmianki o jej istnieniu pochodzą z 1743 i 1777 r. W 1794 r. drewniany budynek spłonął a na jego miejscu w 1797 r. wzniesiono nowy, murowany. W końcu XVIII w. mieściły się w nim 3 chedery (szkoły), mykwa (łaźnia żydowska) oraz mieszkanie rabina Łęczycy. Budynek ten po II wojnie światowej został zaadaptowany na cele mieszkaniowe. Znajduje się od przy ul. Kaliskiej 8.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/5maa611pdoirstr8tpg0cifb5s/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9mLIBWGQO3YKQdK1jg3Q_zyMSPPJmhRUYK6nQ46YxTph4oQhhUYy83ZS0qmAU4BwZHao7DkbPCp0lO8C8ezrRyRleX-FfG-GBEY9odEO9yYCczXs1urercXM2M1w8cw03n-RLXpq23-Eck-luABjCQA0Z_LAurTbik1KNmlWYzfSTzUns-U6PC4fUMwa5dunEg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.1997971,52.0596826,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Getto </name>
+      <description><![CDATA[<img src="https://doc-14-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/bkk3mdljuqrquh9rscfvih8abk/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nCW5urGYMxbEUOcuWh-_M-8Q14JFbg0qKFPjRxyWG_KXnfLo3M9X4qTsJqpvuJNPC8ltG495fVXeGgzdU8Knb6NokbTdpvu5XVmV79U8GOmWmnrFjDk25TJij9udEkZ8kHJPRnyQDiLFi8nCy6WmEFSQuydsUINGpAQ5hNysOlgLl0JddJVk0pIHD45jhr1Q?session=0&fife" height="200" width="auto" /><br><br>Getto utworzone zostało przez Niemców w lutym 1941 r. w obrębie ulic Kaliskiej, Szpitalnej, Żydowskiej, Poznańskiej i Kilińskiego, a dzielnicę tą otoczono drutem kolczastym. W getcie początkowo przebywało ok. 3,5 tys. osób. Likwidacja getta nastąpiła w kwietniu 1942 r. Mieszkańców zaprowadzono na stadion przy ul. Kaliskiej gdzie trzymano ich 3 dni pod gołym niebem. Łącznie ok. 2 tys. osób wywiezionych zostało do obozu zagłady w Chełmnie nad Nerem i tam zamordowanych.<br><br><img src="https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/d3veuib82i21a8t2h9l5c2dcbs/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9m9hXyF_0pe3ErPmHrsgozE2OQt4ksqEizLva8ixtsyTWEIS2CjT0Qp1ZsBU8EHw2k22GQGtqJCuE3EBMZ2mArxelF2Ebz68QJIPOBnqO8Zch7tmITcSeRfhuDuSDzTFLbfxjdBbv-vhEyxBV0j5t4mLzkwtsJqP8BiJKwYKgzKxJLdGRp0tBWYXrXeD3XPeg?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/bkk3mdljuqrquh9rscfvih8abk/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nCW5urGYMxbEUOcuWh-_M-8Q14JFbg0qKFPjRxyWG_KXnfLo3M9X4qTsJqpvuJNPC8ltG495fVXeGgzdU8Knb6NokbTdpvu5XVmV79U8GOmWmnrFjDk25TJij9udEkZ8kHJPRnyQDiLFi8nCy6WmEFSQuydsUINGpAQ5hNysOlgLl0JddJVk0pIHD45jhr1Q?session=0&fife https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/d3veuib82i21a8t2h9l5c2dcbs/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9m9hXyF_0pe3ErPmHrsgozE2OQt4ksqEizLva8ixtsyTWEIS2CjT0Qp1ZsBU8EHw2k22GQGtqJCuE3EBMZ2mArxelF2Ebz68QJIPOBnqO8Zch7tmITcSeRfhuDuSDzTFLbfxjdBbv-vhEyxBV0j5t4mLzkwtsJqP8BiJKwYKgzKxJLdGRp0tBWYXrXeD3XPeg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.2005119,52.0605244,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cmentarz żydowski </name>
+      <description><![CDATA[<img src="https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/us6me2n6h4dfosu3ekpa8g87ck/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9ma4N6ICY1OkndRDW9qDrdNejRIh6AdQMpvzCX6Z-hfH9mVayvL3mvkHK7NxhISxVeon6l5Nwr_7uBydHSrMnOxtfZaQWly_ym8VW7xkZW5Ii0gbrLvzE14wDKVNFAi3pzWRyICj-DfsHOoq7M_MVwA7WZI2HIBHHklQBJfG7w1-iXK9bI-hOBU3WMkWs57BA?session=0&fife" height="200" width="auto" /><br><br>Cmentarz założony został w 2 poł. XV w. w rejonie zbiegu obecnych ulic ks. J. Popiełuszki i M. Konopnickiej. Ostatni pochówek odbył się w 1939 r. Na kirkucie znajdował się ohel (grobowiec) rodziny Auerbachów - rabinów w Łęczycy. Kirkut zdewastowany został przez Niemców w 1940 r., a macew użyto jako płyt chodnikowych na ul. Belwederskiej. Zdjęte zostały stamtąd dopiero po wojnie. Po wojnie teren dawnego cmentarza przeznaczony został pod zabudowę mieszkalną. Trzy macewy z cmentarza znajdują się w Muzeum Ziemi Łęczyckiej. Najstarsza pochodzi z 1820 r.<br><br><img src="https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/ohcof6ebrk4sa2qdupvohhfi20/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9k9nBg_aHKb2g3BpnSwpWhXqXBznw4WLpipcL9AXiMx5nE6NM7r7a9qWHR0C4hzWMBDfY0OWM4rplsYWXLL48JYxwFVN9Uu3CujrNlN1fDro4B19U-eYzWBcs3tB-aOl2IjKdSDW3xnSqHBfnoUpowChrMT8bEx0SZPgtHInQ8UyNixS48H72V8Hq_TEKwFGPI?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/us6me2n6h4dfosu3ekpa8g87ck/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9ma4N6ICY1OkndRDW9qDrdNejRIh6AdQMpvzCX6Z-hfH9mVayvL3mvkHK7NxhISxVeon6l5Nwr_7uBydHSrMnOxtfZaQWly_ym8VW7xkZW5Ii0gbrLvzE14wDKVNFAi3pzWRyICj-DfsHOoq7M_MVwA7WZI2HIBHHklQBJfG7w1-iXK9bI-hOBU3WMkWs57BA?session=0&fife https://doc-10-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/ohcof6ebrk4sa2qdupvohhfi20/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9k9nBg_aHKb2g3BpnSwpWhXqXBznw4WLpipcL9AXiMx5nE6NM7r7a9qWHR0C4hzWMBDfY0OWM4rplsYWXLL48JYxwFVN9Uu3CujrNlN1fDro4B19U-eYzWBcs3tB-aOl2IjKdSDW3xnSqHBfnoUpowChrMT8bEx0SZPgtHInQ8UyNixS48H72V8Hq_TEKwFGPI?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.1940627,52.0621586,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kościół ewangelicki</name>
+      <description><![CDATA[<img src="https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/qkkgt4t6clo76art7uvpb9b840/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nwF0NMNIfYerlT5xhHT8jPJ0f54CJjAGUbsEx1zWqm7ezMhVSkK_ICejhKawBuGCz9JD-HHjlqgQx1bToMv8EmC8_vYvjmCFin4fqFk_1bw2irD3kWkv3BXSP8VXW8oCwZm-P094_CDQjOMYNS6mZjwkMr10SSUi_ytcv7JJ2okUsgBII1D5zOnspx8i7AjA?session=0&fife" height="200" width="auto" /><br><br>Drewniany kościół przeniesiony został z Rudy Bugaj (parafia w Aleksandrowie) na plac przy ul. Ozorkowskiej (obecnie nr 24). Uroczyste otwarcie świątyni nastąpiło w 1853 r. W 1905 r. świątynię grun¬townie odrestau¬rowano, dobu¬dowano również zakrys¬tię. W 1913, wznie¬siono obok koś¬cioła dom parafi¬alny mieszczący szkołę (zachowany do chwili obecnej). W 1930 r. powstała murowana dzwonnica. Po II wojnie świa¬towej kościół przes¬tał być użytkowany, w 1986 r. został poważnie uszkod¬zony przez wichurę, a następnie rozebrany.<br><br><img src="https://doc-04-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/tgcoioorgvk40rlfde8ircctd8/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nIRnwFKCrO8XPtNvITDn8XULy0YZIxcnhiM1Q9FxhZkzKXlxQUYUtkXTvwwYcx0aFgZ5KMf53031e-aHUkLDTREnwBvvXSW3PylYU6dihlYKkR3q98fVkwMcCxIHVtUiAEfCSEQOscOpTfQZBeCGDACoqY0V3nHnjHsNaVl3sFopIboBzT0_TxcUSPLJoLVA?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-08-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/ivu1mmsj4k1esas0gvnes3n2i4/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lD2F-cbOcbgyacp2M6hmZRGSiKfnUhB2OBjunUJzEpr1slnRmOVu5QkwWATxmzZiUfk5YKso8ry66BVTKfhgFitat948iYb18col-x6_nc4vwboffyOy7IrLZZtvYNXIMHngArOe4g7D9lQZ_qyG6enNmAH70kGaCBkQIz_YLcf054O58vXjcxDNcOtkauupA?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/qkkgt4t6clo76art7uvpb9b840/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nwF0NMNIfYerlT5xhHT8jPJ0f54CJjAGUbsEx1zWqm7ezMhVSkK_ICejhKawBuGCz9JD-HHjlqgQx1bToMv8EmC8_vYvjmCFin4fqFk_1bw2irD3kWkv3BXSP8VXW8oCwZm-P094_CDQjOMYNS6mZjwkMr10SSUi_ytcv7JJ2okUsgBII1D5zOnspx8i7AjA?session=0&fife https://doc-04-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/tgcoioorgvk40rlfde8ircctd8/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nIRnwFKCrO8XPtNvITDn8XULy0YZIxcnhiM1Q9FxhZkzKXlxQUYUtkXTvwwYcx0aFgZ5KMf53031e-aHUkLDTREnwBvvXSW3PylYU6dihlYKkR3q98fVkwMcCxIHVtUiAEfCSEQOscOpTfQZBeCGDACoqY0V3nHnjHsNaVl3sFopIboBzT0_TxcUSPLJoLVA?session=0&fife https://doc-08-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/ivu1mmsj4k1esas0gvnes3n2i4/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9lD2F-cbOcbgyacp2M6hmZRGSiKfnUhB2OBjunUJzEpr1slnRmOVu5QkwWATxmzZiUfk5YKso8ry66BVTKfhgFitat948iYb18col-x6_nc4vwboffyOy7IrLZZtvYNXIMHngArOe4g7D9lQZ_qyG6enNmAH70kGaCBkQIz_YLcf054O58vXjcxDNcOtkauupA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.2038272,52.0546197,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cmentarz ewangelicki </name>
+      <description><![CDATA[<img src="https://doc-0c-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/qij68hgvr5erg62fu28up4ongs/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kzrWE90tXODezVDPM2RqjphO7lU5aEHBYayg3do6CYD4Y6MEwgl-LRzKaiprUxf4sqhxX4MTtcAls6ppV2EGHdPfJ6dyQ9JFIJmCHcJWsQXsoguaKnJa9jjM3e5ca7CRqkJdmIZovETEUplM67RlJZd2Gp1YVu6P7OSW-V2Mbe_4oSkbLenWZ3e0tXVIiVEfo?session=0&fife" height="200" width="auto" /><br><br>Założono go na przełomie XVIII i XIX w. (obecnie przy ul. Górnicza - Polna). Na przestrzeni XIX w. otoczony został ceglanym murem. Zachowało się na nim kilkadziesiąt grobowców oraz mniejszych nagrobków.<br><br><img src="https://doc-0o-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/vks2brh24igfpfbatqdpakljt8/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nC6MyoMPTgTgHY-U09RDdK4pYKmu1jhLXK-gcuhiQGaEMte3IxdfF_kXL3CyjweFW-DGkVRkeUPVwYBxsMN9RTBeZO5LSPr5S7gsQA0UEHe3w2nWKT3tIv3FpNS1CgDHl6uHsEkO7z5t8e2xJ66APrvnbvlyxWqB5Vv_fG2CeR9GAcQ1QhROL1V59mtL0hOpE?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0k-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/acqom06t4nia4bfca55eoardc8/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9k9slZoR7caXoZDEBt9dtAqYsQbIGYEXV29741708GoIHOTYt1RGxdnA1OF_B867oEFE0J5mjHbUqCGIjQo1aAg4s1l1TkrFpGXrqohuUZqMHxhvNeAR4_faJuuWelsvpx8N3ubKXIfpYUt36I_ZEaJLizZNbFYsWDTDnZPQqZaBq3G5IUFkXgkU2RPBw1zYX8?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/qij68hgvr5erg62fu28up4ongs/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9kzrWE90tXODezVDPM2RqjphO7lU5aEHBYayg3do6CYD4Y6MEwgl-LRzKaiprUxf4sqhxX4MTtcAls6ppV2EGHdPfJ6dyQ9JFIJmCHcJWsQXsoguaKnJa9jjM3e5ca7CRqkJdmIZovETEUplM67RlJZd2Gp1YVu6P7OSW-V2Mbe_4oSkbLenWZ3e0tXVIiVEfo?session=0&fife https://doc-0o-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/vks2brh24igfpfbatqdpakljt8/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9nC6MyoMPTgTgHY-U09RDdK4pYKmu1jhLXK-gcuhiQGaEMte3IxdfF_kXL3CyjweFW-DGkVRkeUPVwYBxsMN9RTBeZO5LSPr5S7gsQA0UEHe3w2nWKT3tIv3FpNS1CgDHl6uHsEkO7z5t8e2xJ66APrvnbvlyxWqB5Vv_fG2CeR9GAcQ1QhROL1V59mtL0hOpE?session=0&fife https://doc-0k-94-mymaps.googleusercontent.com/untrusted/hostedimage/1thpjs78rpqbjtfh3l9o21mjt0/acqom06t4nia4bfca55eoardc8/1666990555750/viHd11eQC0xFDVnWzD8snGFgKRT-hjR_/06237724470919424086/5AKgB-9k9slZoR7caXoZDEBt9dtAqYsQbIGYEXV29741708GoIHOTYt1RGxdnA1OF_B867oEFE0J5mjHbUqCGIjQo1aAg4s1l1TkrFpGXrqohuUZqMHxhvNeAR4_faJuuWelsvpx8N3ubKXIfpYUt36I_ZEaJLizZNbFYsWDTDnZPQqZaBq3G5IUFkXgkU2RPBw1zYX8?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.207742,52.0463408,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
