@@ -1,7 +1,7 @@
 {
   "version": {
     "fileFormat": "1.1.0",
-    "repo": "1.2.0"
+    "repo": "1.2.1"
   },
   "local": [
     {
@@ -27,7 +27,7 @@
       },
       "path": "/etno/tomaszowMazowiecki",
       "description": {
-        "pl":"Działalności Stowarzyszenia „Na co dzień i od święta” polegają na pobudzaniu działań twórczych, upowszechnianiu i ochronie kultury przy wykorzystaniu innowacyjnych metod. Działania te polegają na: rozpoznawaniu, rozbudzaniu i zaspakajaniu współczesnych potrzeb artystycznych oraz zainteresowań kulturalnych mieszkańców Łodzi i województwa łódzkiego poprzez organizację nowatorskich wydarzeń kulturalnych oraz interdyscyplinarnych akcji edukacyjno-artystycznych z wykorzystaniem działań interaktywnych. Organizacja wspiera młodych twórczych ludzi, dając im możliwość udziału w projektach, których przedmiotem jest edukacja kulturalna i artystyczna. W tych działaniach uczestnicy nabywają nowych umiejętności, zdobywają doświadczenie, nie tylko w bezpośrednich kontaktach z publicznością, ale także z przedstawicielami urzędów, instytucji i biznesu. Te zdolności obecnie stanowią bardzo ważny element ścieżki sukcesu i doskonałe podstawy do budowania kariery po zakończeniu edukacji w życiu zawodowym."
+        "pl":"Projekt Katarzyny Tośty pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki stypendium Ministra Kultury i Dziedzictwa Narodowego."
       },
       "repo-type": "GOOGLE_LAYER_KML",
       "icon": "http://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
@@ -41,7 +41,7 @@
       },
       "path": "/etno/leczyca",
       "description": {
-        "pl":"Działalności Stowarzyszenia „Na co dzień i od święta” polegają na pobudzaniu działań twórczych, upowszechnianiu i ochronie kultury przy wykorzystaniu innowacyjnych metod. Działania te polegają na: rozpoznawaniu, rozbudzaniu i zaspakajaniu współczesnych potrzeb artystycznych oraz zainteresowań kulturalnych mieszkańców Łodzi i województwa łódzkiego poprzez organizację nowatorskich wydarzeń kulturalnych oraz interdyscyplinarnych akcji edukacyjno-artystycznych z wykorzystaniem działań interaktywnych. Organizacja wspiera młodych twórczych ludzi, dając im możliwość udziału w projektach, których przedmiotem jest edukacja kulturalna i artystyczna. W tych działaniach uczestnicy nabywają nowych umiejętności, zdobywają doświadczenie, nie tylko w bezpośrednich kontaktach z publicznością, ale także z przedstawicielami urzędów, instytucji i biznesu. Te zdolności obecnie stanowią bardzo ważny element ścieżki sukcesu i doskonałe podstawy do budowania kariery po zakończeniu edukacji w życiu zawodowym."
+        "pl":"Projekt Katarzyny Tośty pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki stypendium Ministra Kultury i Dziedzictwa Narodowego."
       },
       "repo-type": "GOOGLE_LAYER_KML",
       "icon": "http://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
