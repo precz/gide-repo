@@ -9,7 +9,7 @@
     "en": "Murals dedicated to the memory of the Lodz children during the war."
   },
   "analiticsUa": "UA-68097457-2",
-  "version": "1.10.2",
+  "version": "2.0.1",
   "defaultLanguage": "en",
   "avaliableLanguages": [
     "en",
@@ -48,7 +48,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04305.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04305.JPG"
             }
           ],
           "links": [
@@ -86,7 +86,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04306.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04306.JPG"
             }
           ],
           "links": [
@@ -123,7 +123,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04296.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04296.JPG"
             }
           ],
           "links": [
@@ -155,7 +155,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04264.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04264.JPG"
             }
           ],
           "links": [
@@ -199,7 +199,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04262.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04262.JPG"
             }
           ],
           "links": [
@@ -243,7 +243,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04260.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04260.JPG"
             }
           ],
           "links": [
@@ -295,7 +295,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04251.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04251.JPG"
             }
           ],
           "links": [
@@ -339,7 +339,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04259.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04259.JPG"
             }
           ],
           "links": [
@@ -380,7 +380,7 @@
           "name": "Abramek Cytryn",
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/abramek.jpg"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/abramek.jpg"
             }
           ],
           "links": [
@@ -418,7 +418,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04282.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04282.JPG"
             }
           ],
           "links": [
@@ -456,7 +456,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04275.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04275.JPG"
             }
           ],
           "links": [
@@ -491,7 +491,7 @@
           "name": "Dawid Sierakowiak",
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04301.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04301.JPG"
             }
           ],
           "links": [
@@ -538,7 +538,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04255.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04255.JPG"
             }
           ],
           "links": [
@@ -582,7 +582,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04279.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04279.JPG"
             }
           ],
           "links": [
@@ -616,7 +616,7 @@
           "name": "Abramek Kopalowicz",
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04289.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04289.JPG"
             }
           ],
           "links": [
@@ -651,7 +651,7 @@
           "name": "Salek Berliński",
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04291.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04291.JPG"
             }
           ],
           "links": [
@@ -681,7 +681,7 @@
           "name": "Zisele Świerc",
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC04310.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC04310.JPG"
             }
           ],
           "links": [
@@ -721,7 +721,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/IMG_20160101_124324.jpg"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/IMG_20160101_124324.jpg"
             }
           ],
           "links": [
@@ -753,7 +753,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/IMG_20160101_125757.jpg"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/IMG_20160101_125757.jpg"
             }
           ],
           "links": [
@@ -785,7 +785,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/IMG_20160101_131055.jpg"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/IMG_20160101_131055.jpg"
             }
           ],
           "links": [
@@ -817,7 +817,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/DSC05305.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/DSC05305.JPG"
             }
           ],
           "links": [
@@ -857,7 +857,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/5_1.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/5_1.JPG"
             }
           ],
           "links": [
@@ -889,7 +889,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/5_2.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/5_2.JPG"
             }
           ],
           "links": [
@@ -921,7 +921,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/5_3.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/5_3.JPG"
             }
           ],
           "links": [
@@ -953,7 +953,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/5_4.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/5_4.JPG"
             }
           ],
           "links": [
@@ -993,7 +993,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/6_1.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/6_1.JPG"
             }
           ],
           "links": [
@@ -1025,7 +1025,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/6_2.JPG"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/6_2.JPG"
             }
           ],
           "links": [
@@ -1065,7 +1065,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/wawelska.jpg"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/wawelska.jpg"
             }
           ],
           "links": [
@@ -1095,7 +1095,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/plater.jpg"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/plater.jpg"
             }
           ],
           "links": [
@@ -1125,7 +1125,7 @@
           },
           "images": [
             {
-              "url": "http://conductro.duckdns.org:28002/dzieci-balut/20180619_142712.jpg"
+              "url": "https://conductro.duckdns.org:28002/dzieci-balut/20180619_142712.jpg"
             }
           ],
           "links": [
