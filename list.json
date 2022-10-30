@@ -1,7 +1,7 @@
 {
   "version": {
     "fileFormat": "1.1.0",
-    "repo": "1.2.1"
+    "repo": "1.2.2"
   },
   "local": [
     {
@@ -31,7 +31,7 @@
       },
       "repo-type": "GOOGLE_LAYER_KML",
       "icon": "http://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
-      "image": "http://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
+      "image": "https://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
       "coordinates": [51.531203, 20.011248]
     },
     {
@@ -44,8 +44,8 @@
         "pl":"Projekt Katarzyny Tośty pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki stypendium Ministra Kultury i Dziedzictwa Narodowego."
       },
       "repo-type": "GOOGLE_LAYER_KML",
-      "icon": "http://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
-      "image": "http://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
+      "icon": "https://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
+      "image": "https://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
       "coordinates": [52.059170, 19.203090]
     }
   ],
