@@ -1,7 +1,7 @@
 {
   "version": {
     "fileFormat": "1.1.0",
-    "repo": "1.2.2"
+    "repo": "1.2.3"
   },
   "local": [
     {
@@ -27,7 +27,7 @@
       },
       "path": "/etno/tomaszowMazowiecki",
       "description": {
-        "pl":"Projekt Katarzyny Tośty pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki stypendium Ministra Kultury i Dziedzictwa Narodowego."
+        "pl":"Projekt Fundacji Monumentum Iudaicum Lodzense pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki dofinansowaniu ze środków Ministra Kultury i Dziedzictwa Narodowego w ramach programu Narodowego Centrum Kultury: EtnoPolska. Edycja 2022."
       },
       "repo-type": "GOOGLE_LAYER_KML",
       "icon": "http://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
@@ -41,7 +41,7 @@
       },
       "path": "/etno/leczyca",
       "description": {
-        "pl":"Projekt Katarzyny Tośty pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki stypendium Ministra Kultury i Dziedzictwa Narodowego."
+        "pl":"Projekt Fundacji Monumentum Iudaicum Lodzense pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki dofinansowaniu ze środków Ministra Kultury i Dziedzictwa Narodowego w ramach programu Narodowego Centrum Kultury: EtnoPolska. Edycja 2022."
       },
       "repo-type": "GOOGLE_LAYER_KML",
       "icon": "https://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
