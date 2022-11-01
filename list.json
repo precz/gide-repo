@@ -16,8 +16,8 @@
         "en": "Murals dedicated to the memory of the Lodz children during the war."
       },
       "repo-type": "APP_DATA_JSON",
-      "icon": "",
-      "image": "",
+      "icon": "https://conductro.duckdns.org:28002/dzieci-balut/splash.jpg",
+      "image": "https://conductro.duckdns.org:28002/dzieci-balut/splash.jpg",
       "coordinates": [51.788953, 19.454477]
     },
     {
