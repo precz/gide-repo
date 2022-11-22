@@ -16,8 +16,8 @@
         "en": "Murals dedicated to the memory of the Lodz children during the war."
       },
       "repo-type": "APP_DATA_JSON",
-      "icon": "https://conductro.duckdns.org:28002/dzieci-balut/splash.jpg",
-      "image": "https://conductro.duckdns.org:28002/dzieci-balut/splash.jpg",
+      "icon": "https://cdn-guide.precz.org/dzieci-balut/splash.jpg",
+      "image": "https://cdn-guide.precz.org/dzieci-balut/splash.jpg",
       "coordinates": [51.788953, 19.454477]
     },
     {
@@ -30,8 +30,8 @@
         "pl":"Projekt Fundacji Monumentum Iudaicum Lodzense pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki dofinansowaniu ze środków Ministra Kultury i Dziedzictwa Narodowego w ramach programu Narodowego Centrum Kultury: EtnoPolska. Edycja 2022."
       },
       "repo-type": "GOOGLE_LAYER_KML",
-      "icon": "https://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
-      "image": "https://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
+      "icon": "https://cdn-guide.precz.org/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
+      "image": "https://cdn-guide.precz.org/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
       "coordinates": [51.531203, 20.011248]
     },
     {
@@ -44,8 +44,8 @@
         "pl":"Projekt Fundacji Monumentum Iudaicum Lodzense pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki dofinansowaniu ze środków Ministra Kultury i Dziedzictwa Narodowego w ramach programu Narodowego Centrum Kultury: EtnoPolska. Edycja 2022."
       },
       "repo-type": "GOOGLE_LAYER_KML",
-      "icon": "https://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
-      "image": "https://conductro.duckdns.org:28002/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
+      "icon": "https://cdn-guide.precz.org/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
+      "image": "https://cdn-guide.precz.org/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
       "coordinates": [52.059170, 19.203090]
     }
   ],
