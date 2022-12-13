@@ -1,7 +1,7 @@
 {
   "version": {
     "fileFormat": "1.1.0",
-    "repo": "1.2.3"
+    "repo": "1.3.0"
   },
   "local": [
     {
@@ -44,8 +44,36 @@
         "pl":"Projekt Fundacji Monumentum Iudaicum Lodzense pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki dofinansowaniu ze środków Ministra Kultury i Dziedzictwa Narodowego w ramach programu Narodowego Centrum Kultury: EtnoPolska. Edycja 2022."
       },
       "repo-type": "GOOGLE_LAYER_KML",
-      "icon": "https://cdn-guide.precz.org/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
-      "image": "https://cdn-guide.precz.org/etno-re-witalizacje-tomaszow-mazowiecki/icon.png",
+      "icon": "https://cdn-guide.precz.org/etno-re-witalizacje-leczyca/icon.png",
+      "image": "https://cdn-guide.precz.org/etno-re-witalizacje-leczyca/icon.png",
+      "coordinates": [52.059170, 19.203090]
+    },
+    {
+      "id": "4kultury-tomaszow-mazowiecki",
+      "name": {
+        "pl": "4 kultury – odNOWA pamięci 0.2 Tomaszów Mazowiecki"
+      },
+      "path": "/4kultury/tomaszowMazowiecki",
+      "description": {
+        "pl":"Projekt „4 kultury – odNOWA pamięci 0.2.”  pokazujący ciągłość 4 kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Projekt zrealizowany przez Fundację Monumentum Iudaicum Lodzense dofinansowano ze środków Muzeum Historii Polski w Warszawie w ramach Programu „Patriotyzm Jutra”."
+      },
+      "repo-type": "GOOGLE_LAYER_KML",
+      "icon": "https://cdn-guide.precz.org/4kultury-tomaszow-mazowiecki/icon.jpg",
+      "image": "https://cdn-guide.precz.org/4kultury-tomaszow-mazowiecki/icon.jpg",
+      "coordinates": [51.531203, 20.011248]
+    },
+    {
+      "id": "4kultury-leczyca",
+      "name": {
+        "pl": "4 kultury – odNOWA pamięci 0.2 Łęczyca"
+      },
+      "path": "/4kultury/leczyca",
+      "description": {
+        "pl":"Projekt „4 kultury – odNOWA pamięci 0.2.”  pokazujący ciągłość 4 kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Projekt zrealizowany przez Fundację Monumentum Iudaicum Lodzense dofinansowano ze środków Muzeum Historii Polski w Warszawie w ramach Programu „Patriotyzm Jutra”."
+      },
+      "repo-type": "GOOGLE_LAYER_KML",
+      "icon": "https://cdn-guide.precz.org/4kultury-leczyca/icon.jpg",
+      "image": "https://cdn-guide.precz.org/4kultury-leczyca/icon.jpg",
       "coordinates": [52.059170, 19.203090]
     }
   ],
