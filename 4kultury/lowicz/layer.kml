@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Miejsca</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Synagoga</name>
+      <description><![CDATA[Synagoga, ul. Zduńska 53<br>Pierwsza, drewniana synagoga w Łowiczu powstała ok. 1830 r. Ze względu na zły stan techniczny rozebrano ją w 1871 r. i przystąpiono do budowy nowej, murowanej świątyni. <br>Murowaną synagogę wzniesiono w latach 1871 - 1897. Zbudowana została na planie prostokąta w stylu angielskiego neogotyku. Do główniej sali modlitewnej wchodziło się przez przedsionek. Na piętrze znajdowała się z 3 stron galeria dla kobiet. Podczas II wojny światowej budynek został w 1939 r. spalony przez Niemców. W 1942 r. jego pozostałości rozebrano. W 1950 r. uporządkowano teren po synagodze i postawiono na nim budynek „SAM”.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          19.9377305,52.1066016,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Synagoga</name>
+      <description><![CDATA[Synagoga, ul. Browarna 10<br>Murowana synagoga przy ul. Browarnej 10 powstała w 1897 r. Podczas II wojny światowej budynek został zdewastowany przez Niemców. Po wojnie służył jako siedziba Urzędu Miar i Wag. W 1995 r. budynek został rozebrany, a w jego miejsce wzniesiono obiekt handlowy.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-lowicz/01_lowicz_synagoga.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.9403383,52.1064858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Żydowska Szkoła Powszechna</name>
+      <description><![CDATA[Żydowska Szkoła Powszechna, ul. Browarna 1<br>Założona została w latach 20. XX w. W czasach okupacji niemieckiej została przekształcona w Dom Pracy Przymusowej, w którym pracowali żydowscy rzemieślnicy.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-lowicz/03_browarna_1_szkoła_zydowska.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.940536,52.1086924,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mała bożnica, mykwa, cheder</name>
+      <description><![CDATA[Mała bożnica, mykwa, cheder, ul. Browarna 5<br>Był to obiekt drewniany, wzniesiony w XIX w. Mieściły się w niej biura gminy żydowskiej, mykwa i cheder. Budynek nie zachował się.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          19.9408024,52.1074671,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cmentarz żydowski</name>
+      <description><![CDATA[Cmentarz żydowski, ul. Łęczycka 96<br>Cmentarz założony został w 1830 r., na działce we wsi Zagórki, ofiarowanej przez Wielkiego Księcia Konstantego gminie żydowskiej. Jego powierzchnia wynosi 1,86 ha. Zachowała się oryginalna brama od ul. Łęczyckiej i część pierwotnego ogrodzenia. Podczas okupacji niemieckiej nekropolia stała się miejscem masowych egzekucji ludności żydowskiej i polskiej. Natomiast nagrobki zostały użyte przez Niemców m.in. do wzmocnienia nadbrzeży rzek Bzury i Malinówki. Po II wojnie macewy wykorzystano jako materiał kamieniarski do budowy pomnika przyjaźni polsko-radzieckiej. Odzyskano je dopiero po rozebraniu pomnika w 1991 r. W 1993 r. cmentarz uporządkowano, ustawiono macewy z których zachowało się ok. 400. Cmentarz wpisany jest do rejestru zabytków pod nr A875 A (decyzja z dn 20.03.1992 r.).]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-lowicz/05_cmentarz_zydowski_2.jpg https://cdn-guide.precz.org/4kultury-lowicz/05_cmentarz_zydowski_3.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.9084898,52.1048743,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Getto</name>
+      <description><![CDATA[Przygotowania do założenia getta rozpoczęto w maju 1940 r., ostatecznie utworzono je na jesienią tegoż roku. Jego teren obejmował ulice po północnej stronie Nowego Rynku: Bielawską, Zduńską, Ciemną, Ciasną, część Sienkiewicza i część Browarnej, a także ul. Stanisławskiego, do rogu ul. Długiej. Teren getta został prowizorycznie ogrodzony drutem kolczastym. W kwietniu 1940 r. zaczęła się budowa muru, oddzielającego getto od strony „aryjskiej”. Wtedy też obszar getta zmniejszono, wyłączając z niego jesienią 1940 r. ul. Bielawską i część ul. Stanisławskiego. Do getta prowadziły trzy bramy, które znajdowały się: na początku ul. Zduńskiej – przy Nowym Rynku; na końcu ul. Zduńskiej – przy wejściu na Stary Rynek; u zbiegu ulic Browarnej i Sienkiewicza.<br>W getcie w Łowiczu mieszkało 4308 Żydów z Łowicza oraz żydowska ludność z okolicy miasta – łącznie ok. 8 tys. osób. Likwidację rozpoczęto w lutym, a zakończono w marcu 1941 r. Zamieszkałych w Łowiczu Żydów wywieziono do getta w Warszawie, ostatnich – jesienią 1942 roku. Z liczby ok. 4500 Żydów łowickich, wojnę przeżyło ok. 100 osób.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-lowicz/06_lowicz_getto.jpg https://cdn-guide.precz.org/4kultury-lowicz/06_lowicz_getto_2.jpg https://cdn-guide.precz.org/4kultury-lowicz/06_lowicz_getto_3.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.9381588,52.1055077,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kościół ewangelicki</name>
+      <description><![CDATA[Projekt budowy kościoła w stylu klasycystycznym przygotował w 1836 r. Jan Łuczaj, budowniczy obwodu sochaczewskiego, modyfikacje elewacji wprowadził Henryk Marconi. Koszt budowy oszacowano na 45650 zł. Poświęcenie kościoła odbyło się w listopadzie 1839 r. <br>Kościół jest budynkiem murowanym, wzniesiony na planie prostokąta, posiadający oryginalną fasadę z monumentalnym sześciokolumnowym portykiem ze stiukowym Okiem Opatrzności w tympanonie. Uwagę zwraca portal wejściowy z nadprożem, wspartym na dwóch konsolach, ozdobionych liśćmi akantu. Między oknami w elewacjach bocznych znajdują się stiukowe wieńce liści laurowych ze wstęgami. Murowana dzwonnica pochodzi z 1866 r. <br>W 1985 r. świątynia została sprzedana władzom miasta Łowicza, a w 1991 r. kościół kupił artysta malarz Andrzej Biernacki i stworzył Galerię Browarna. Główne pomieszczenie dawnego kościoła jest aktualnie wykorzystywane jako sala wystaw, miejsce koncertów muzycznych i występów chóralnych.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-lowicz/11_kosciol_ewangelicki.jpg https://cdn-guide.precz.org/4kultury-lowicz/11_kosciol_ewangelicki_2.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.9401327,52.107935,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plebania</name>
+      <description><![CDATA[Plebania, ul. Browarna 15<br>Wzniesiona została w 1856 r. i służyła pierwotnie jako mieszkanie pastora, szkoła i mieszkanie nauczyciela. Obecnie pełni funkcję kaplicy ewangelicko-augsburskiej.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-lowicz/12_plebania.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.9407729,52.1053497,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cmentarz ewangelicki</name>
+      <description><![CDATA[Cmentarz ewangelicki, ul. Boczna 9<br> Cmentarz powstał w 1841 r. dla coraz liczniejszej łowickiej parafii ewangelickiej. Zachował się do czasów obecnych.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-lowicz/13_cmentarz_ewangelicki.jpg https://cdn-guide.precz.org/4kultury-lowicz/13_cmentarz_ewangelicki_2.jpg https://cdn-guide.precz.org/4kultury-lowicz/13_cmentarz_ewangelicki_3.jpg https://cdn-guide.precz.org/4kultury-lowicz/13_cmentarz_ewangelicki_4.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.9461822,52.1150452,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cerkiew pw. Narodzenia św. Jana Chrzciciela</name>
+      <description><![CDATA[Mieściła się w budynku dawnej szkoły realnej (obecnie Muzeum w Łowiczu – od lat 50. XX w.). Do budynku dobudowano dzwonnicę (w 1902 r.) oraz umieszczono nad wejściem i na szczycie dachu prawosławne krzyże, a szkolną kaplicę zaadaptowano na cerkiew. Wyposażenie budynku zostało sfinansowane ze składek miejscowych wiernych. Dla cerkwi powstał nowy ikonostas oraz cztery duże ikony boczne. Dawny fresk nad ołtarzem dawnej kaplicy zniszczono, zastępując go w 1889 wyobrażeniem Chrztu Chrystusa. Zachowano natomiast dekorację malarską Palloniego na suficie kaplicy, przedstawiającą sceny z życia Karola Boromeusza. Obiekt wyświęcono w 1886 r.<br>Prawosławna świątynia zakończyła swoją działalność w 1914 r. W 1917 rozebrano dzwonnicę i usunięto poprzeczną belkę z krzyża na dachu obiektu.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-lowicz/21_cerkiew_obecnie_muzeum.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.94596,52.1078367,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cmentarz prawosławny</name>
+      <description><![CDATA[Cmentarz prawosławny, ul. Listopadowa 6<br>Cmentarz założony został w 1820 r. jako katolicki; jest najstarszym cmentarzem na terenie Łowicza. Od 1836 r. administrowany był przez wspólnotę prawosławną. Do 1914 r. pochowano na nim ponad 3000 osób. Do czasów obecnych przetrwało na nim kilkadziesiąt nagrobków. Ostatni pochówek miał miejsce w 2000 r.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-lowicz/22_cmentarz_prawoslawny.jpg https://cdn-guide.precz.org/4kultury-lowicz/22_cmentarz_prawoslawny_2.jpg https://cdn-guide.precz.org/4kultury-lowicz/22_cmentarz_prawoslawny_3.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.954707,52.1202581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
