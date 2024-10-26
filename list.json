@@ -1,7 +1,7 @@
 {
   "version": {
     "fileFormat": "1.1.0",
-    "repo": "1.4.0"
+    "repo": "1.5.0"
   },
   "local": [
     {
@@ -88,6 +88,20 @@
       "repo-type": "GOOGLE_LAYER_KML",
       "icon": "https://cdn-guide.precz.org/4kultury-lowicz/icon.jpg",
       "image": "https://cdn-guide.precz.org/4kultury-lowicz/store_background.png",
+      "coordinates": [52.112564, 19.931598]
+    },
+    {
+      "id": "4kultury-sieradz",
+      "name": {
+        "pl": "4 kultury – odNOWA pamięci 0.2 Sieradz"
+      },
+      "path": "/4kultury/sieradz",
+      "description": {
+        "pl":"Projekt „4 kultury – odNOWA pamięci 0.2.”  pokazujący ciągłość 4 kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Projekt zrealizowany przez Fundację Monumentum Iudaicum Lodzense dofinansowano ze środków Muzeum Historii Polski w Warszawie w ramach Programu „Patriotyzm Jutra”."
+      },
+      "repo-type": "GOOGLE_LAYER_KML",
+      "icon": "https://cdn-guide.precz.org/4kultury-sieradz/icon.jpg",
+      "image": "https://cdn-guide.precz.org/4kultury-sieradz/store_background.png",
       "coordinates": [52.112564, 19.931598]
     }
   ],

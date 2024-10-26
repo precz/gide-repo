@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Warstwa bez nazwy</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Synagoga</name>
+      <description><![CDATA[ul. Wodna 7<br>Zbudowana w latach 1819–1824. Murowany budynek synagogi wzniesiono na planie prostokąta. Od zachodu posiada przybudówkę na całej szerokości. Mieścił się w niej prawdopodobnie przedsionek, a nad nim babiniec. Dodając przybudówkę pozostawiono dawny szczyt fasady. Nie zachowało się nic z dawnego wyposażenia wnętrza. Niedaleko synagogi znajdowała się mykwa. Podczas II wojny światowej Niemcy zdewastowali synagogę, a następnie przebudowali ją na biura. Po wojnie budynek w dalszym ciągu był wykorzystywany jako biura i warsztaty rzemieślnicze. W 2007 r., w 65. rocznicę likwidacji getta na ścianie budynku dawnej synagogi odsłonięto tablicę pamiątkową.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-sieradz/01_Sieradz_synagoga_1.jpg https://cdn-guide.precz.org/4kultury-sieradz/01_Sieradz_synagoga_2.jpg https://cdn-guide.precz.org/4kultury-sieradz/01_Synagoga_Wodna_3.JPG]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          18.740251,51.5935858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cmentarz żydowski</name>
+      <description><![CDATA[ul. Zakładników<br>Cmentarz żydowski został założony w 1812 r. przy obecnej ul. Zakładników. Jego powierzchnia wynosi 1,2 ha. Teren nie jest ogrodzony. Podczas II wojny światowej Niemcy zdewastowali cmentarz a macewy wykorzystali do budowy tzw. „schodów hańby” przy ul. Krakowskie Przedmieście. Obecnie znajdują się na nim fragmenty macew, obelisk z płytą upamiętniającą egzekucję dokonaną w 1939 r. przez Niemców na 20 zakładnikach – Polakach i Żydach oraz symboliczny nagrobek Dawida Józefowicza, zmarłego w Sieradzu w latach 90. XX w.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-sieradz/02_Cmentarz_zydowski_1.jpg https://cdn-guide.precz.org/4kultury-sieradz/02_Cmentarz_zydowski_2.JPG https://cdn-guide.precz.org/4kultury-sieradz/02_Cmentarz_zydowski_3.JPG https://cdn-guide.precz.org/4kultury-sieradz/02_Cmentarz_zydowski_4.JPG]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          18.7091508,51.602518,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Getto
+</name>
+      <description>Getto utworzono w lutym 1940 r. Obejmowało ono obszar wokół ulic: Sukienniczej, Wodnej, Szewskiej i Żabiej. Zamknięto w nim ok. 2 tys. osób. Kres funkcjonowania getta nastąpił w sierpniu 1942 r. Ludność z getta zamknięto na kilka dni w kościele przy klasztorze sióstr Urszulanek, następnie większość została przewieziona ciężarowymi samochodami do obozu zagłady w Chełmnie nad Nerem, gdzie zostali zamordowani.</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-sieradz/03_Getto_1.jpg https://cdn-guide.precz.org/4kultury-sieradz/03_Getto_2.jpg https://cdn-guide.precz.org/4kultury-sieradz/03_Getto_3.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          18.7399886,51.5946726,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cerkiew św. Serafina</name>
+      <description><![CDATA[zbieg ulic Kościuszki oraz Żwirki i Wigury<br>Cerkiew wzniesiono w latach 1910 - 1912 u zbiegu dzisiejszych ulic Kościuszki i Żwirki i Wigury. Świątynię wybudowano w stylu bizantyjskim. Nad bryłą cerkwi górowała wieża z sześcioma oknami, zwieńczona płaską kopułą i 14 oknami umieszczonymi w ścianach. Nad wejściem do świątyni wybudowano niewielką dwurzędową dzwonnicę z 5 dzwonami. Funkcję świątyni przestała pełnić w 1919 r. , w 1928 r. podjęto decyzję o jej rozbiórce.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-sieradz/11_Cerkiew_miejsce_1.JPG https://cdn-guide.precz.org/4kultury-sieradz/11_Sieradz_cerkiew_1.jpg https://cdn-guide.precz.org/4kultury-sieradz/11_Sieradz_cerkiew_2.jpg]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          18.7344131,51.5947628,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Część prawosławna na Starym cmentarzu</name>
+      <description><![CDATA[ul. Wojska Polskiego 38-40<br>Stary cmentarz założony został po 1810 r., wyświęcony w 1824 r. Znajduje się w gronie najstarszych nekropolii województwa łódzkiego. Znajduje się też na nim Radziecki cmentarz wojenny z 1945 r.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          18.7256071,51.5993581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kościół ewangelicko-augsburski</name>
+      <description><![CDATA[ul. Kościuszki<br>Do budowy kaplicy, na miejscu dzisiejszego kościoła, przystąpiono dopiero w 1889 r., jej wyświęcenie nastąpiło w 1897 r. W kolejnych latach dokonywano dalszej rozbudowy obiektu. W 1900 r. rozpoczęto dobudowę wieży dzwonnej. Obecny kształt świątynia uzyskała dopiero przed wybuchem I wojny światowej. Poświęcenie kościoła nastąpiło w 1925 r., a dzwony „Jedność” i „Zgoda” zabrzmiały z wieży kościoła w 1928 r. Po zakończeniu II wojny światowej przez kilkanaście lat kościół nie pełnił funkcji sakralnych. Od połowy lat sześćdziesiątych obiekt dzierżawili wierni kościoła polsko-katolickiego. Począwszy od 2002 r. po gruntownym remoncie obiekt pełni funkcję kościoła garnizonowego Wojska Polskiego.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-sieradz/21_Kosciol_ewangelicki_1.jpg https://cdn-guide.precz.org/4kultury-sieradz/21_kosciol_ewangelicki_3.JPG]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          18.73265,51.5946635,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cmentarz ewangelicki</name>
+      <description>Cmentarz powstał na początku XIX wieku. Aleję prowadząca do nekropolii wysadzono kasztanowcami, a ulicę nazwano potem Kasztanową. Po II wojnie światowej cmentarz został zdewastowany. Pozostałe groby wyekshumowano w 1978 r. Szczątki zmarłych przeniesiono na cmentarze parafialne w Sieradzu i Zduńskiej Woli. Pozostały jednak kwatery żołnierzy niemieckich z I i II wojny. Większość mogił zalano betonem lub asfaltem, bo znalazły się na terenie Zakładów Przemysłu Spirytusowego Polmos zamkniętych w 2012 r. (obecnie Leroy Merlin). W 2016 roku szczątki kilkuset pochowanych tam osób zostały ekshumowane.</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://cdn-guide.precz.org/4kultury-sieradz/22_cmentarz_ewangelicki_1.JPG]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          18.7311562,51.5976884,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
