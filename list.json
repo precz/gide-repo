@@ -1,7 +1,7 @@
 {
   "version": {
     "fileFormat": "1.1.0",
-    "repo": "1.5.0"
+    "repo": "1.5.1"
   },
   "local": [
     {
@@ -102,7 +102,7 @@
       "repo-type": "GOOGLE_LAYER_KML",
       "icon": "https://cdn-guide.precz.org/4kultury-sieradz/icon.jpg",
       "image": "https://cdn-guide.precz.org/4kultury-sieradz/store_background.png",
-      "coordinates": [52.112564, 19.931598]
+      "coordinates": [51.5982909, 18.7220464]
     }
   ],
   "external-repo": []
