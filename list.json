@@ -1,7 +1,7 @@
 {
   "version": {
     "fileFormat": "1.1.0",
-    "repo": "1.5.1"
+    "repo": "1.5.2"
   },
   "local": [
     {
@@ -79,11 +79,11 @@
     {
       "id": "4kultury-lowicz",
       "name": {
-        "pl": "4 kultury – odNOWA pamięci 0.2 Łowicz"
+        "pl": "ETNO re:WITALIZACJE Łowicz"
       },
       "path": "/4kultury/lowicz",
       "description": {
-        "pl":"Projekt „4 kultury – odNOWA pamięci 0.2.”  pokazujący ciągłość 4 kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Projekt zrealizowany przez Fundację Monumentum Iudaicum Lodzense dofinansowano ze środków Muzeum Historii Polski w Warszawie w ramach Programu „Patriotyzm Jutra”."
+        "pl":"Projekt Fundacji Monumentum Iudaicum Lodzense pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki dofinansowaniu ze środków Ministra Kultury i Dziedzictwa Narodowego w ramach programu Narodowego Centrum Kultury: EtnoPolska. Edycja 2022."
       },
       "repo-type": "GOOGLE_LAYER_KML",
       "icon": "https://cdn-guide.precz.org/4kultury-lowicz/icon.jpg",
@@ -93,11 +93,11 @@
     {
       "id": "4kultury-sieradz",
       "name": {
-        "pl": "4 kultury – odNOWA pamięci 0.2 Sieradz"
+        "pl": "ETNO re:WITALIZACJE Sieradz"
       },
       "path": "/4kultury/sieradz",
       "description": {
-        "pl":"Projekt „4 kultury – odNOWA pamięci 0.2.”  pokazujący ciągłość 4 kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Projekt zrealizowany przez Fundację Monumentum Iudaicum Lodzense dofinansowano ze środków Muzeum Historii Polski w Warszawie w ramach Programu „Patriotyzm Jutra”."
+        "pl":"Projekt Fundacji Monumentum Iudaicum Lodzense pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki dofinansowaniu ze środków Ministra Kultury i Dziedzictwa Narodowego w ramach programu Narodowego Centrum Kultury: EtnoPolska. Edycja 2022."
       },
       "repo-type": "GOOGLE_LAYER_KML",
       "icon": "https://cdn-guide.precz.org/4kultury-sieradz/icon.jpg",
