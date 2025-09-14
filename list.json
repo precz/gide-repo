@@ -1,7 +1,7 @@
 {
   "version": {
     "fileFormat": "1.1.0",
-    "repo": "1.5.2"
+    "repo": "1.6.3"
   },
   "local": [
     {
@@ -103,6 +103,34 @@
       "icon": "https://cdn-guide.precz.org/4kultury-sieradz/icon.jpg",
       "image": "https://cdn-guide.precz.org/4kultury-sieradz/store_background.png",
       "coordinates": [51.5982909, 18.7220464]
+    },
+    {
+      "id": "etno-re-witalizacje-kutno",
+      "name": {
+        "pl": "ETNO re:WITALIZACJE Kutno"
+      },
+      "path": "/etno/kutno",
+      "description": {
+        "pl":"Projekt Fundacji Monumentum Iudaicum Lodzense pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki dofinansowaniu ze środków Ministra Kultury i Dziedzictwa Narodowego w ramach programu Narodowego Centrum Kultury: EtnoPolska. Edycja 2025."
+      },
+      "repo-type": "GOOGLE_LAYER_KML",
+      "icon": "https://cdn-guide.precz.org/etno-kutno/icon.jpg",
+      "image": "https://cdn-guide.precz.org/etno-kutno/store_background.png",
+      "coordinates": [52.2222743, 19.3299312]
+    },
+    {
+      "id": "etno-re-witalizacje-koluszki",
+      "name": {
+        "pl": "ETNO re:WITALIZACJE Koluszki"
+      },
+      "path": "/etno/koluszki",
+      "description": {
+        "pl":"Projekt Fundacji Monumentum Iudaicum Lodzense pokazujący ciągłość 4 łódzkich kultur z uwzględnieniem religii, obrzędowości, architektury, muzyki, sztuki sakralnej, sepulkralnej i nowoczesnej. Zrealizowany dzięki dofinansowaniu ze środków Ministra Kultury i Dziedzictwa Narodowego w ramach programu Narodowego Centrum Kultury: EtnoPolska. Edycja 2025."
+      },
+      "repo-type": "GOOGLE_LAYER_KML",
+      "icon": "https://cdn-guide.precz.org/etno-koluszki/icon.jpg",
+      "image": "https://cdn-guide.precz.org/etno-koluszki/store_background.png",
+      "coordinates": [51.7456463, 19.7961326]
     }
   ],
   "external-repo": []
