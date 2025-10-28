@@ -38,13 +38,190 @@
         <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Placemark>
-      <name>Punkt 1</name>
-      <description>opis opis opis</description>
+      <name>Synagoga, ul. Brzezińska 21</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRZgkyVbd3KEG6rdMdQNm4kqRWl48im6648I7MR2hCDI4KihL_p1jjRN_0VHiB4GEFQyuG3hf4-w2W6UUqsjzojzTDIJNsQs6AQopYw0yYG40lcEbWGUd0esh88zA0tpm02YRGIIB3oT6Rig9qqA58h8gaqA9WB4bNCqWtEfqrzS2ZqjUyDOt7t7TBHou-x1ZBmlWNe6gE1uMXUBFtmaMkRpbh92avmy-iXgJ-W2W_B7y6ZczT3JCzBXfc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Murowana synagoga zbudowana została w 1925 r. prawdopodobnie na miejscu drewnianej. Budynek został przez Niemców rozebrany do końca 1940 r. Obecnie na placu gdzie stała świątynia znajduje się parterowy budynek mieszczący księgarnię.<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTYhC9TxL1NmhEhDDHDJJlnj96yhGBieMXF1VSBtBoEwCooTgPePxSpA8_BSvMP-OeHY3PcfNvzuDCuIuHnu49h_TXd_-y2Jh6F4HtxMw5KWQUiFpl47Exv6m-JmbKzyuC_-xT-NqWWpeR5nILB2cK0t3QLWRO9TxnMcFVsWTKZ6HYu89dU411HcfYAgV2usy6P6DDi8s-RBNtE5zDYcouP5hQn5teKHMOy797MGyOQ99PP0ITA0IsvZZs?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRZgkyVbd3KEG6rdMdQNm4kqRWl48im6648I7MR2hCDI4KihL_p1jjRN_0VHiB4GEFQyuG3hf4-w2W6UUqsjzojzTDIJNsQs6AQopYw0yYG40lcEbWGUd0esh88zA0tpm02YRGIIB3oT6Rig9qqA58h8gaqA9WB4bNCqWtEfqrzS2ZqjUyDOt7t7TBHou-x1ZBmlWNe6gE1uMXUBFtmaMkRpbh92avmy-iXgJ-W2W_B7y6ZczT3JCzBXfc?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTYhC9TxL1NmhEhDDHDJJlnj96yhGBieMXF1VSBtBoEwCooTgPePxSpA8_BSvMP-OeHY3PcfNvzuDCuIuHnu49h_TXd_-y2Jh6F4HtxMw5KWQUiFpl47Exv6m-JmbKzyuC_-xT-NqWWpeR5nILB2cK0t3QLWRO9TxnMcFVsWTKZ6HYu89dU411HcfYAgV2usy6P6DDi8s-RBNtE5zDYcouP5hQn5teKHMOy797MGyOQ99PP0ITA0IsvZZs?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.8147869,51.7458996,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kamienica Icka Grünbauma, ul. Brzezieńska 23</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSsULD2kwEqfRomYMOn3lCMA8WDGwQKubyT2BWqqx-rkizvCATLtN_J6UpFM3LQjdo-h0wjuPpYEGsmyciJvDkUoDckrWsIi2LHpADRAgTsvMrTrU3Cemh6UiSAoHlxxDxtBYIBLE8MnXbrsaZFc3ty0z6r143aLc6WNKpSCYSihE9FD_4JDx1fp3CoR_LEnvoYsSDlCDuxLNhoWVTVvDxWgaxa6EYVzMMgxSrIQD--VjebX57LnieteA0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Dwupiętrowa kamienica z użytkowym poddaszem znajdowała się obok budynku synagogi. Zbudowana została w końcu XIX, na pocz. XX w. Budynek zachował się do czasów obecnych.<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRPO-M2d9q3P_tcbj3SFhrJQoI6uD0t2pK7SWDCr3JQv1RVkGANfUs0WRGIGCBn3FPY9eYs_TYkXCV-nBCrx5dkVWkTYVyYTfbdndtgF3221t71hOkU1O07R3YERaZn3aMU8jhsk1hgSKROiDHkCEQTylR82aX0DBeHaATzepCB0CNjtj8QKKb6Wnp7d-BdMEhRNVZv03Nl5DDlvGyypnoMY7DZyGvNFqcvi-9thDttY0o-6occKjbhaXw?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSsULD2kwEqfRomYMOn3lCMA8WDGwQKubyT2BWqqx-rkizvCATLtN_J6UpFM3LQjdo-h0wjuPpYEGsmyciJvDkUoDckrWsIi2LHpADRAgTsvMrTrU3Cemh6UiSAoHlxxDxtBYIBLE8MnXbrsaZFc3ty0z6r143aLc6WNKpSCYSihE9FD_4JDx1fp3CoR_LEnvoYsSDlCDuxLNhoWVTVvDxWgaxa6EYVzMMgxSrIQD--VjebX57LnieteA0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRPO-M2d9q3P_tcbj3SFhrJQoI6uD0t2pK7SWDCr3JQv1RVkGANfUs0WRGIGCBn3FPY9eYs_TYkXCV-nBCrx5dkVWkTYVyYTfbdndtgF3221t71hOkU1O07R3YERaZn3aMU8jhsk1hgSKROiDHkCEQTylR82aX0DBeHaATzepCB0CNjtj8QKKb6Wnp7d-BdMEhRNVZv03Nl5DDlvGyypnoMY7DZyGvNFqcvi-9thDttY0o-6occKjbhaXw?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.8145669,51.7459662,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dom Estery Honig</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTurPy5pQXRBA6f5_SWsKaiHrC7mvCo3Hd0PmY6nVlV0kFNkLCVpkw0miDxa0oCnafDSfqHBidvu1YV85cSDXipZpR_dghZYzhlmaqsPY62_NhsK5xZsDVXx_4n73dx5sJt0uMeijhSz1Bl1PKHJNAu5DRv3zA1LwxoHLSjjiB1CTe--L5toZx-OxG_Ld1ARAerwdJF8UayxT2DRvoWnGTI-Pvmlqby-Y_2nxCc9SXFPp87o-Dy3DVNunA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Ceglano-drewniany dom znajdował się u zbiegu obecnych ulic Staszica i 3 Maja. Przetrwał II wojnę światową. Został rozebrany w latach 90. XX w. Obecnie na miejscu tym znajduje się nowy, piętrowy budynek.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTurPy5pQXRBA6f5_SWsKaiHrC7mvCo3Hd0PmY6nVlV0kFNkLCVpkw0miDxa0oCnafDSfqHBidvu1YV85cSDXipZpR_dghZYzhlmaqsPY62_NhsK5xZsDVXx_4n73dx5sJt0uMeijhSz1Bl1PKHJNAu5DRv3zA1LwxoHLSjjiB1CTe--L5toZx-OxG_Ld1ARAerwdJF8UayxT2DRvoWnGTI-Pvmlqby-Y_2nxCc9SXFPp87o-Dy3DVNunA?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.8178007,51.7459338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fabryka Wód Sodowych i Lemoniad „D.E.” i dom rodziny Erlichów, ul. 3 Maja 8</name>
+      <description>Fabryka znajdowała się na tyłach budynku mieszkalnego. Prowadziła ją Dyna Erlich (stąd skrót D.E). Sztandarowym produktem wytwórni był sok o nazwie „Orzeźwiający jałowiec”.</description>
       <styleUrl>#icon-1899-0288D1</styleUrl>
       <Point>
         <coordinates>
-          19.8090603,51.7417768,0
+          19.8164436,51.7443173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mykwy</name>
+      <description>Pierwsza usytuowana była przy ob. ul. 11 Listopada (dawniej obszar wsi Nowy Katarzynów). Druga znajdowała się na tyłach synagogi przy ul. Brzezińskiej 21.</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          19.8147182,51.7461173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ubojnia rytualna</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSO_XUH3I8STVMtU-KYjsntUWNhS_bdqYPRhrPi4davM_6KFioTVYI_1dLHI7x_WRcdV-94r715pzPH3vy7H5UzzKXwgFSNKtPB5StkyQxYkXleipsbrrkh0XGp1VUmorX3Z8sVDuIev6-iCUlI3Mh_yF1ZYH-nIgRUXV6aQkDJgjOlPD0u3w9AqJ514iC9Ovg3ko10xoYkhWTiutPf-y5RbV1RNH2D36ht4YJJxiUogHhIw_0ktAS9bxc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Mieściła się na terenie rzeźni miejskiej przy ul. Hallera/róg Mickiewicza. Rzeźnia zbudowana została w 1926 r. Budynki zostały rozebrane w 2016 r. Obecnie znajduje się tam pusty plac.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSO_XUH3I8STVMtU-KYjsntUWNhS_bdqYPRhrPi4davM_6KFioTVYI_1dLHI7x_WRcdV-94r715pzPH3vy7H5UzzKXwgFSNKtPB5StkyQxYkXleipsbrrkh0XGp1VUmorX3Z8sVDuIev6-iCUlI3Mh_yF1ZYH-nIgRUXV6aQkDJgjOlPD0u3w9AqJ514iC9Ovg3ko10xoYkhWTiutPf-y5RbV1RNH2D36ht4YJJxiUogHhIw_0ktAS9bxc?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.8087561,51.7447712,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dzielnica żydowska</name>
+      <description>Zamieszkiwane przez ludność żydowską w XVIII, XIX i na początku XX w. budynki koncentrowały się wokół rynku i ulic: Brzezińskiej, 3 Maja, Staszica i Teatralnej.</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          19.8144559,51.7464125,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Getto</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQ9FcTEcSp1rzyMf7CUfbBnlSSs0ek4Xq7QlKPMx8g7qGpQy72Yg-H7XqsS9cN2ZP7FNt1t1iTM2Avrbi9oxFS5M_sRHLle87vRbyIlOsEP98dfEmMbwZnQ2A9OS3Bz52YcYg1ygUiUkGFthPHmYaKj1zvpPzHiahKkxeU08MuRse5x-ZIe26cC3G44F1JJgj_SxtcX4iNYgBOpsrSwv-RectnviCDelSdBhiB8o05ZLZmNkiSyPGW4o0o?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Utworzono je w kwietniu 1940 r. Getto objęło rejon ulic (według obecnego nazewnictwa): Poprzecznej, Targowej, Rynku, Krzemienieckiej, Cmentarnej, Krzywej, Konopnickiej i 11 Listopada. Centrum getta stanowił rynek.<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTUKCrRWGL3rf5ZIwe4dL8a9wWhISZSTVfRHOGYAfPtcmkcXCrozOUPoOTsHWKlwj9jMYYvTNDdjQl8tWGf2agd_jmPVePJlBxoEk-34eldrSLFTLuPZFDNIKqTnfv4kOPIsDBkGunOzVqns347CGwBT3p2Qv25fP7dGqC8WiYg63jKp4k8QPa3hibnaB7-mOJjK1MO4-toBGb3-gY62mJmusKtUS5_qJAGVGpajw56VLZcITzY_b5SUdo?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQTIVYR1idmcMGRFw6qkXjx-sP8eT2KlsZp4LLeuBHrEZw1Vp6KYToVZPcPoTnr4yu1jjRHIE1bn7sE-dhXGcFmnmB4X0qwMuH_f-fIN06LofH_AIm0Nakh7Nsi7yTdVmx0SSxKCG6rZsvNgCRA0uFXNTp77UrCM5fho8AlJRRaxWYx2_ksKv4z0Go-H2V-uicx8BKAJ4ywjlGJgAzpdfqSvIwZT4ogtVbdHkKGG-OGrYSCN7C3dcpjFQA?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR5V1tUuBSYk5PTGeJ9CMoE7pp-O3lzOFXu7k_KG12TNwcJ1gsFz4XXFJ02yTps1-p2ic6O23Ch8WnbVtmmpi9-NMpIA1800Zo7JaO04fBQg-stCewDjupiOPXDf0GfninTcmAxRvbOhVHvgAZMN5n6VTinXWNWOZULRlRLqtfN5S7ZtVoQpuTWpZ8jVitb5z3ZnznNxzFb7hd8CX6tgThVNfTSSLj-w_lkn98PqF-WWqLQ5H54DMJENhw?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTiLiCyIcKIDuOCq-jxaeuQJoxCpkeyQQz42LKU8KbkV7Q8sxWAqsq7OfjdDGmVrCwmroLHcuSd1a5ySWypZGlhMNn8TUfnU2PvO5tQ13FI6w_njZWxD8WyXMynlVyELWRh5BDXAECLKFQp2LYK5xVwT2yJIbl2fIpaREj7L4-tj1HaIY4wtjgUA_AwA1hkJKsq_219ax7ndu4tLrqhQhyR0kyRrxyVg16RQs_lgGWaG2iF9Y8VDdF4wX4?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQ9FcTEcSp1rzyMf7CUfbBnlSSs0ek4Xq7QlKPMx8g7qGpQy72Yg-H7XqsS9cN2ZP7FNt1t1iTM2Avrbi9oxFS5M_sRHLle87vRbyIlOsEP98dfEmMbwZnQ2A9OS3Bz52YcYg1ygUiUkGFthPHmYaKj1zvpPzHiahKkxeU08MuRse5x-ZIe26cC3G44F1JJgj_SxtcX4iNYgBOpsrSwv-RectnviCDelSdBhiB8o05ZLZmNkiSyPGW4o0o?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTUKCrRWGL3rf5ZIwe4dL8a9wWhISZSTVfRHOGYAfPtcmkcXCrozOUPoOTsHWKlwj9jMYYvTNDdjQl8tWGf2agd_jmPVePJlBxoEk-34eldrSLFTLuPZFDNIKqTnfv4kOPIsDBkGunOzVqns347CGwBT3p2Qv25fP7dGqC8WiYg63jKp4k8QPa3hibnaB7-mOJjK1MO4-toBGb3-gY62mJmusKtUS5_qJAGVGpajw56VLZcITzY_b5SUdo?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQTIVYR1idmcMGRFw6qkXjx-sP8eT2KlsZp4LLeuBHrEZw1Vp6KYToVZPcPoTnr4yu1jjRHIE1bn7sE-dhXGcFmnmB4X0qwMuH_f-fIN06LofH_AIm0Nakh7Nsi7yTdVmx0SSxKCG6rZsvNgCRA0uFXNTp77UrCM5fho8AlJRRaxWYx2_ksKv4z0Go-H2V-uicx8BKAJ4ywjlGJgAzpdfqSvIwZT4ogtVbdHkKGG-OGrYSCN7C3dcpjFQA?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR5V1tUuBSYk5PTGeJ9CMoE7pp-O3lzOFXu7k_KG12TNwcJ1gsFz4XXFJ02yTps1-p2ic6O23Ch8WnbVtmmpi9-NMpIA1800Zo7JaO04fBQg-stCewDjupiOPXDf0GfninTcmAxRvbOhVHvgAZMN5n6VTinXWNWOZULRlRLqtfN5S7ZtVoQpuTWpZ8jVitb5z3ZnznNxzFb7hd8CX6tgThVNfTSSLj-w_lkn98PqF-WWqLQ5H54DMJENhw?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTiLiCyIcKIDuOCq-jxaeuQJoxCpkeyQQz42LKU8KbkV7Q8sxWAqsq7OfjdDGmVrCwmroLHcuSd1a5ySWypZGlhMNn8TUfnU2PvO5tQ13FI6w_njZWxD8WyXMynlVyELWRh5BDXAECLKFQp2LYK5xVwT2yJIbl2fIpaREj7L4-tj1HaIY4wtjgUA_AwA1hkJKsq_219ax7ndu4tLrqhQhyR0kyRrxyVg16RQs_lgGWaG2iF9Y8VDdF4wX4?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.8257853,51.7420786,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Posterunek Żydowskiej Służby Porządkowej 
+</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQHccJazeoeEsq1-QOn_-bHWWoEdarqkjZudz9Q8TSZcRF5yhNdxG258ugcYIp8e_zMTcKSPHiKA0rxedHQnYkFHThdDGNp8uRyah9wKqN1WI5yvT5saYxZI8j67-hpwAN_MjuH7jCjT5NjtJ6i-emL4Iq9ksmH9U1dEnXvDrJ85Bh7CcwEAFHH2H9SeZlwdhO4Qp2OwssqKYA7GMvc_PyOsuN_fxgGiat1t1DcrTjZS2f-mDqs1iI80nA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Mieścił się w centralnym punkcie getta, na rynku. Obecnie jest to parterowy budynek pod adresem ul. Rynek 1.<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSZoOq5gMWmvD88yxALgCzUpZWPMbTtOLp4CqU0KmG_F3YPo8rXuLmIYJs5Ffb7Xm8mZnvTqwq1ZKaar0rGL95gERv31IoQF9o3ZSHDOiZ8nvwtwmUgTzicYJmrJb1prtOUNeKyCsZFo4paGj5JzOVjKrI8Z_MpzezxdlHZuroP2-iCeW7uxO5mTBsFV-bW5mgSJijHMa6rb-v--ssBsxwxj1uI3_uJQO1BBLn5HTqUwkoKBqcy4SWncMM?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQKZcUCR4ypJf91rGhI77aNLCW2hsFHiX63uJHAz4HhmUdeFJpLOElT95k0DVYWc-Qrk-WJThqz1E3kCwebRawjDNZoPZck9qfc4AOEOvpGGO-Y0yzTeXX_Xh0vVxa60Sg6zCmaUT6HFcw1n0keyRii0JfPCOMSWGuYlgh8NFK2ONq2Fb_T09Bp-fgxfGLfZhHmbkpxtZnPbY_OcJDUgw9p1DdozABVci8Rivjfz5YnHFaGZ4zkyZg8lXE?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQHccJazeoeEsq1-QOn_-bHWWoEdarqkjZudz9Q8TSZcRF5yhNdxG258ugcYIp8e_zMTcKSPHiKA0rxedHQnYkFHThdDGNp8uRyah9wKqN1WI5yvT5saYxZI8j67-hpwAN_MjuH7jCjT5NjtJ6i-emL4Iq9ksmH9U1dEnXvDrJ85Bh7CcwEAFHH2H9SeZlwdhO4Qp2OwssqKYA7GMvc_PyOsuN_fxgGiat1t1DcrTjZS2f-mDqs1iI80nA?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSZoOq5gMWmvD88yxALgCzUpZWPMbTtOLp4CqU0KmG_F3YPo8rXuLmIYJs5Ffb7Xm8mZnvTqwq1ZKaar0rGL95gERv31IoQF9o3ZSHDOiZ8nvwtwmUgTzicYJmrJb1prtOUNeKyCsZFo4paGj5JzOVjKrI8Z_MpzezxdlHZuroP2-iCeW7uxO5mTBsFV-bW5mgSJijHMa6rb-v--ssBsxwxj1uI3_uJQO1BBLn5HTqUwkoKBqcy4SWncMM?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQKZcUCR4ypJf91rGhI77aNLCW2hsFHiX63uJHAz4HhmUdeFJpLOElT95k0DVYWc-Qrk-WJThqz1E3kCwebRawjDNZoPZck9qfc4AOEOvpGGO-Y0yzTeXX_Xh0vVxa60Sg6zCmaUT6HFcw1n0keyRii0JfPCOMSWGuYlgh8NFK2ONq2Fb_T09Bp-fgxfGLfZhHmbkpxtZnPbY_OcJDUgw9p1DdozABVci8Rivjfz5YnHFaGZ4zkyZg8lXE?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.8254736,51.7415392,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punkt 11</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          19.8291379,51.7583502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kościół ewangelicki, przy ul. Towarowej</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTf3KnnHL0RLZ08FdWvE7B_CGPYHKTVbNZqQqo6aqETW5Doe9KlgKCGK_Zi9BZQ3RGX_PdlZD4bauF_UeXyHrUEJb2rHxkFSX3mxPceiq-dpdLp4D7YwR2vVxYm7qRcnqmrKQS9gCcyVD66twSdGSUgsUWmCxBY1sCPAh9LrwBxN3mpgsuM63R9hine690Zo7UHYY9FtM_yGFvGLLnFTGwdPpv0qAjnZqF8UHyMPbJ4oY4e59PEqZLRVY8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Kościół wzniesiony został w 1916 r. z drewna pochodzącego z umocnień polowych budowanych w 1914 r. Inicjatorem budowy świątyni był wojenny gubernator Łodzi gen. lejtnant Felix von Barth. Był to niewielki obiekt założony na planie prostokąta, z węższym, przylegającym do tylnej ściany prezbiterium. Na ścianach bocznych umieszczono rząd trzech kwadratowych okien. Wysoki, dwuspadowy dach wieńczyła czworokątna sygnaturka z metalowym krzyżem. Wsparty dwoma kolumnami, trójkątny daszek znajdował się nad drzwiami wejściowymi. Kościół służył początkowo jako kościół garnizonowy, później jako cywilny. W 1920 r. kościółek przejęli polscy katolicy, którzy w 1922 r. rozmontowali go i przenieśli do Rogowa. W 1981 r. został finalnie rozebrany.<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRlQ6nYFDAwlo5P79fBExz_0b86q7y74HIi4sxLY_VSr3ZPitWRxGDM_wu9As0VDttTGQxd7W9g2zjbW8gHx8mQljamzp9v3s-VgU0hLWbMocVp4S9kJlPJaIB0ajndYSPdsndxbCFAsVKVq1p-2lPwFbXE6jyAUf_aM7Qc_pthoV3vGpGZFCokArVjIwMt-fSVamuz0xQy4c35UN7V-N-I10NmD22j53KkL0mMvLPIOTzQuep4ke6nfS4?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGT6qwp7ghc4-nn55Lo_TvhrbzBiKgqWuKcCZCNnU3-lSoTRwbsbOOaUhiqKMl9spH6tbVVIJ24c5jEMEohjmPhBuLsp_gqoj3Ot_qaalJUIu6pwA2zyeKJ8nl832WBkkXZZHfSqDn3uYCSbTYv_PtEvcX5uOTzGrLqVBDfcaR6swWPYBFLCEasIIgJ2N5keDODLAUDYV4GRCdJEceib8_FJ5nPvKymQOZpc6Ir6BzyAz0hMyNn2s_mmpXg?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTf3KnnHL0RLZ08FdWvE7B_CGPYHKTVbNZqQqo6aqETW5Doe9KlgKCGK_Zi9BZQ3RGX_PdlZD4bauF_UeXyHrUEJb2rHxkFSX3mxPceiq-dpdLp4D7YwR2vVxYm7qRcnqmrKQS9gCcyVD66twSdGSUgsUWmCxBY1sCPAh9LrwBxN3mpgsuM63R9hine690Zo7UHYY9FtM_yGFvGLLnFTGwdPpv0qAjnZqF8UHyMPbJ4oY4e59PEqZLRVY8?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRlQ6nYFDAwlo5P79fBExz_0b86q7y74HIi4sxLY_VSr3ZPitWRxGDM_wu9As0VDttTGQxd7W9g2zjbW8gHx8mQljamzp9v3s-VgU0hLWbMocVp4S9kJlPJaIB0ajndYSPdsndxbCFAsVKVq1p-2lPwFbXE6jyAUf_aM7Qc_pthoV3vGpGZFCokArVjIwMt-fSVamuz0xQy4c35UN7V-N-I10NmD22j53KkL0mMvLPIOTzQuep4ke6nfS4?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGT6qwp7ghc4-nn55Lo_TvhrbzBiKgqWuKcCZCNnU3-lSoTRwbsbOOaUhiqKMl9spH6tbVVIJ24c5jEMEohjmPhBuLsp_gqoj3Ot_qaalJUIu6pwA2zyeKJ8nl832WBkkXZZHfSqDn3uYCSbTYv_PtEvcX5uOTzGrLqVBDfcaR6swWPYBFLCEasIIgJ2N5keDODLAUDYV4GRCdJEceib8_FJ5nPvKymQOZpc6Ir6BzyAz0hMyNn2s_mmpXg?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          19.8157621,51.7399772,0
         </coordinates>
       </Point>
     </Placemark>
