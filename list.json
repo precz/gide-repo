@@ -1,7 +1,7 @@
 {
   "version": {
     "fileFormat": "1.1.0",
-    "repo": "1.7.5"
+    "repo": "1.7.6"
   },
   "local": [
     {
@@ -155,8 +155,8 @@
       "icon": "https://cdn-guide.precz.org/etno-koluszki/icon.jpg",
       "image": "https://cdn-guide.precz.org/etno-koluszki/store_background.png",
       "coordinates": [
-        51.7456463,
-        19.7961326
+        51.7423249,
+        19.8113101
       ]
     }
   ],
