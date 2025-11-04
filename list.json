@@ -1,7 +1,7 @@
 {
   "version": {
     "fileFormat": "1.1.0",
-    "repo": "1.7.6"
+    "repo": "1.7.7"
   },
   "local": [
     {
@@ -138,8 +138,8 @@
       "icon": "https://cdn-guide.precz.org/etno-kutno/icon.jpg",
       "image": "https://cdn-guide.precz.org/etno-kutno/store_background.png",
       "coordinates": [
-        52.2222743,
-        19.3299312
+        52.2320029,
+        19.3511481
       ]
     },
     {
